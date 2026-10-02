@@ -1,0 +1,211 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PWLB Squawk</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect width='16' height='16' rx='3' fill='%230b5fff'/%3E%3Cpath d='M3 10l3-4 3 3 4-5' stroke='white' stroke-width='2' fill='none'/%3E%3C/svg%3E">
+<meta name="description" content="Demo ticker for the pwlbsquawk feed: reads data/squawks.json and shows the latest UK rates squawks.">
+<style>
+  :root {
+    --bg: #f6f7f9; --panel: #ffffff; --text: #16202a; --muted: #5d6b7a; --line: #e3e7ec;
+    --accent: #0b5fff; --tape-bg: #16202a; --tape-text: #f6f7f9;
+    --boe: #7c3aed; --data: #0284c7; --fiscal: #b45309; --supply: #047857;
+    --geopolitics: #be123c; --energy: #c2410c; --global_rates: #4338ca;
+    --imp3: #d92d20; --imp2: #f79009; --imp1: #98a2b3;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #0f151c; --panel: #171f28; --text: #e8edf2; --muted: #9aa8b6; --line: #273240;
+      --accent: #6ea0ff; --tape-bg: #050810; --tape-text: #e8edf2;
+      --boe: #b794f6; --data: #5cc0f2; --fiscal: #f2b264; --supply: #4ade80;
+      --geopolitics: #fb7185; --energy: #fb923c; --global_rates: #a5b4fc;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #0f151c; --panel: #171f28; --text: #e8edf2; --muted: #9aa8b6; --line: #273240;
+    --accent: #6ea0ff; --tape-bg: #050810; --tape-text: #e8edf2;
+    --boe: #b794f6; --data: #5cc0f2; --fiscal: #f2b264; --supply: #4ade80;
+    --geopolitics: #fb7185; --energy: #fb923c; --global_rates: #a5b4fc;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; }
+  body { background: var(--bg); color: var(--text); font: 15px/1.45 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  .masthead { position: sticky; top: 0; z-index: 2; }
+  header { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 12px 16px; border-bottom: 1px solid var(--line); background: var(--panel); }
+  header h1 { font-size: 16px; margin: 0; letter-spacing: .02em; }
+  header .meta { color: var(--muted); font-size: 12px; }
+  header button { white-space: nowrap; flex: none; background: transparent; color: var(--text); border: 1px solid var(--line); border-radius: 6px; padding: 6px 10px; cursor: pointer; font-size: 13px; }
+  .tape { display: flex; align-items: stretch; width: 100%; background: var(--tape-bg); color: var(--tape-text); font-size: 13.5px; line-height: 1; }
+  .tape-label { flex: none; display: flex; align-items: center; gap: 6px; padding: 0 12px; font-weight: 700; letter-spacing: .08em; font-size: 11px; background: var(--imp3); color: #fff; }
+  .tape-label .dot { width: 7px; height: 7px; border-radius: 50%; background: #fff; animation: blink 1.6s ease-in-out infinite; }
+  @keyframes blink { 50% { opacity: .25; } }
+  .tape-track { flex: 1; overflow: hidden; white-space: nowrap; mask-image: linear-gradient(90deg, transparent 0, #000 24px, #000 calc(100% - 24px), transparent 100%); }
+  .tape-inner { display: inline-flex; padding: 9px 0; animation: scroll var(--tape-duration, 90s) linear infinite; will-change: transform; }
+  .tape:hover .tape-inner { animation-play-state: paused; }
+  .tape .item { display: inline-flex; align-items: center; gap: 8px; margin-right: 40px; }
+  .tape .item time { opacity: .6; font-variant-numeric: tabular-nums; }
+  .tape .item .tag { font-size: 10px; font-weight: 700; letter-spacing: .05em; text-transform: uppercase; padding: 2px 6px; border-radius: 3px; color: #fff; }
+  .tape .item.i3 .hl { font-weight: 700; }
+  .tape .sep { opacity: .35; margin-right: 40px; }
+  @keyframes scroll { from { transform: translateX(0); } to { transform: translateX(-50%); } }
+  @media (prefers-reduced-motion: reduce) { .tape-inner { animation: none; padding-left: 12px; } .tape-label .dot { animation: none; } }
+  main { max-width: 860px; margin: 0 auto; padding: 16px; }
+  .filters { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; }
+  .filters button { border: 1px solid var(--line); background: var(--panel); color: var(--text); border-radius: 999px; padding: 4px 10px; font-size: 12px; cursor: pointer; }
+  .filters button[aria-pressed="true"] { border-color: var(--accent); color: var(--accent); }
+  article { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 12px 14px; margin-bottom: 10px; }
+  article .top { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 12px; color: var(--muted); margin-bottom: 6px; }
+  .cat { padding: 1px 8px; border-radius: 999px; font-weight: 600; letter-spacing: .03em; text-transform: uppercase; font-size: 11px; color: #fff; }
+  .cat.boe { background: var(--boe); } .cat.data { background: var(--data); } .cat.fiscal { background: var(--fiscal); }
+  .cat.supply { background: var(--supply); } .cat.geopolitics { background: var(--geopolitics); } .cat.energy { background: var(--energy); } .cat.global_rates { background: var(--global_rates); }
+  .imp { display: inline-block; width: 8px; height: 8px; border-radius: 50%; }
+  .imp.i3 { background: var(--imp3); box-shadow: 0 0 0 3px color-mix(in srgb, var(--imp3) 25%, transparent); } .imp.i2 { background: var(--imp2); } .imp.i1 { background: var(--imp1); }
+  h2 { font-size: 16px; margin: 0 0 6px; line-height: 1.35; }
+  p { margin: 0; color: var(--text); }
+  .sources { margin-top: 8px; font-size: 12px; color: var(--muted); }
+  .sources a { color: var(--accent); text-decoration: none; }
+  .empty, .error { text-align: center; color: var(--muted); padding: 40px 0; }
+  .error { color: var(--imp3); }
+  footer { text-align: center; color: var(--muted); font-size: 12px; padding: 20px; }
+</style>
+</head>
+<body>
+<div class="masthead">
+  <div class="tape" aria-label="Latest squawks">
+    <span class="tape-label"><span class="dot"></span>LIVE</span>
+    <div class="tape-track"><div class="tape-inner" id="tape"></div></div>
+  </div>
+  <header>
+    <div>
+      <h1>PWLB Squawk <span class="meta">demo ticker</span></h1>
+      <div class="meta" id="status">loading…</div>
+    </div>
+    <button id="theme" type="button" aria-label="Toggle light/dark">☾ / ☀</button>
+  </header>
+</div>
+<main>
+  <div class="filters" id="filters" role="group" aria-label="Filter by category"></div>
+  <div id="list"></div>
+</main>
+<footer>Reads <code id="src"></code> · refreshes every 60s · categories: BoE, data, fiscal, supply, geopolitics, energy, global rates · importance: <span class="imp i3"></span> 3 <span class="imp i2"></span> 2 <span class="imp i1"></span> 1</footer>
+<script>
+(function () {
+  const params = new URLSearchParams(location.search);
+  const SRC = params.get('src') || '../data/squawks.json';
+  const REFRESH_MS = 60000;
+  const CATS = ['boe', 'data', 'fiscal', 'supply', 'geopolitics', 'energy', 'global_rates'];
+  const LABELS = { boe: 'BoE', data: 'Data', fiscal: 'Fiscal', supply: 'Supply', geopolitics: 'Geopolitics', energy: 'Energy', global_rates: 'Global rates' };
+  let active = new Set(CATS);
+  let squawks = [];
+  document.getElementById('src').textContent = SRC;
+
+  // theme toggle (system default; remembered per browser)
+  const root = document.documentElement;
+  try { const t = localStorage.getItem('squawk-theme'); if (t) root.dataset.theme = t; } catch (e) {}
+  document.getElementById('theme').addEventListener('click', () => {
+    const dark = root.dataset.theme ? root.dataset.theme === 'dark' : matchMedia('(prefers-color-scheme: dark)').matches;
+    root.dataset.theme = dark ? 'light' : 'dark';
+    try { localStorage.setItem('squawk-theme', root.dataset.theme); } catch (e) {}
+  });
+
+  const filters = document.getElementById('filters');
+  CATS.forEach(c => {
+    const b = document.createElement('button');
+    b.type = 'button'; b.textContent = LABELS[c]; b.dataset.cat = c; b.setAttribute('aria-pressed', 'true');
+    b.addEventListener('click', () => {
+      if (active.size === CATS.length) { active = new Set([c]); }
+      else if (active.has(c)) { active.delete(c); if (!active.size) active = new Set(CATS); }
+      else { active.add(c); }
+      filters.querySelectorAll('button').forEach(x => x.setAttribute('aria-pressed', String(active.has(x.dataset.cat))));
+      render();
+    });
+    filters.appendChild(b);
+  });
+
+  function ago(iso) {
+    const s = Math.max(0, (Date.now() - new Date(iso).getTime()) / 1000);
+    if (s < 60) return 'just now';
+    if (s < 3600) return Math.floor(s / 60) + ' min ago';
+    if (s < 86400) return Math.floor(s / 3600) + ' h ago';
+    return new Date(iso).toLocaleDateString('en-GB', { day: 'numeric', month: 'short' });
+  }
+  function esc(t) { return String(t).replace(/[&<>"']/g, m => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[m])); }
+
+  const SOURCE_LIMIT = 6;
+
+  // One link per author: a squawk routinely cites twenty posts from the same account,
+  // and repeating the handle twenty times is noise.
+  function sourceLinks(sources) {
+    const byAuthor = new Map();
+    for (const x of sources || []) {
+      const prev = byAuthor.get(x.author);
+      if (!prev || (!prev.url && x.url)) byAuthor.set(x.author, x);
+    }
+    const all = [...byAuthor.values()];
+    const shown = all.slice(0, SOURCE_LIMIT).map(x => x.url
+      ? `<a href="${esc(x.url)}" target="_blank" rel="noopener">@${esc(x.author)}</a>`
+      : `@${esc(x.author)}`).join(' \u00b7 ');
+    const extra = all.length - SOURCE_LIMIT;
+    return extra > 0 ? `${shown} +${extra} more` : shown;
+  }
+
+  function render() {
+    const list = document.getElementById('list');
+    const shown = squawks.filter(s => active.has(s.category));
+    if (!shown.length) { list.innerHTML = '<div class="empty">No squawks yet. Most batches are not material; the first one appears when the writer finds something that moves UK rates. To preview with a replay, add <code>?src=../data/replay/&lt;name&gt;/squawks.json</code> to the address.</div>'; }
+    else {
+      list.innerHTML = shown.map(s => {
+        const srcs = sourceLinks(s.sources);
+        return `<article>
+          <div class="top"><span class="imp i${s.importance}" title="importance ${s.importance}"></span>
+            <span class="cat ${esc(s.category)}">${LABELS[s.category] || esc(s.category)}</span>
+            <time datetime="${esc(s.ts)}" title="${esc(s.ts)}">${ago(s.ts)}</time></div>
+          <h2>${esc(s.headline)}</h2>
+          <p>${esc(s.detail)}</p>
+          ${srcs ? `<div class="sources">via ${srcs}</div>` : ''}
+        </article>`;
+      }).join('');
+    }
+    const tape = document.getElementById('tape');
+    const top = [...squawks].sort((a, b) => (b.ts || '').localeCompare(a.ts || '')).slice(0, 15);
+    if (!top.length) { tape.innerHTML = '<span class="item">Waiting for squawks…</span>'; tape.style.animation = 'none'; }
+    else {
+      const hhmm = iso => new Date(iso).toLocaleTimeString('en-GB', { hour: '2-digit', minute: '2-digit' });
+      const one = top.map(s => `<span class="item i${s.importance}"><time>${hhmm(s.ts)}</time><span class="tag cat ${esc(s.category)}">${LABELS[s.category] || esc(s.category)}</span><span class="hl">${esc(s.headline)}</span></span>`).join('');
+      tape.innerHTML = one + '<span class="sep">◆</span>' + one + '<span class="sep">◆</span>';
+      tape.style.animation = '';
+      const chars = top.reduce((n, s) => n + s.headline.length, 0);
+      tape.style.setProperty('--tape-duration', Math.max(40, Math.round(chars / 9)) + 's');
+    }
+  }
+
+  async function load() {
+    const status = document.getElementById('status');
+    try {
+      const r = await fetch(SRC + (SRC.includes('?') ? '&' : '?') + 't=' + Date.now(), { cache: 'no-store' });
+      if (r.status === 404) {
+        squawks = [];
+        status.textContent = 'waiting for the first squawk (no squawks.json yet) · next refresh in 60s';
+        render();
+        return;
+      }
+      if (!r.ok) throw new Error('HTTP ' + r.status);
+      const doc = await r.json();
+      squawks = Array.isArray(doc) ? doc : (doc.squawks || []);
+      // The file is ordered by publication time; a backfill publishes days of events at
+      // once, so order the tape by when each thing actually happened.
+      squawks.sort((a, b) => String(b.ts).localeCompare(String(a.ts)));
+      status.textContent = `${squawks.length} squawks · updated ${doc.generated_at ? ago(doc.generated_at) : 'n/a'} · next refresh in 60s`;
+      render();
+    } catch (e) {
+      status.textContent = 'could not load ' + SRC;
+      document.getElementById('list').innerHTML = `<div class="error">Could not load <code>${esc(SRC)}</code> (${esc(e.message)}). Serve the repo over HTTP: <code>squawk serve</code>, then open <code>http://127.0.0.1:8765/web/ticker.html</code>.</div>`;
+    }
+  }
+  load();
+  setInterval(load, REFRESH_MS);
+})();
+</script>
+</body>
+</html>
