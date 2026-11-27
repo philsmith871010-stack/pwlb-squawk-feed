@@ -1,0 +1,4771 @@
+{
+ "schema_version": 1,
+ "generated_at": "2026-11-27T22:05:57Z",
+ "count": 200,
+ "squawks": [
+  {
+   "id": "5bd7c3d13a42",
+   "ts": "2026-11-27T22:05:12Z",
+   "headline": "Canadian dollar heads for a weekly gain as investors keep bets on a December Bank of Canada rate hike",
+   "detail": "Reuters reports the Canadian dollar was on course on Friday to end a three-week losing run against the US dollar. Investors held on to bets that the Bank of Canada will raise rates again next month.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "2dc4501825fd11c1"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3d72lrg7i25",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3d72lrg7i25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9c331a248d36",
+   "created_at": "2026-11-27T22:05:57Z"
+  },
+  {
+   "id": "ee855e03bb92",
+   "ts": "2026-11-27T21:42:19Z",
+   "headline": "S&P lowers France's credit rating outlook to negative",
+   "detail": "S&P Global Ratings has moved France's outlook to negative. The agency said political instability will make it harder for France to bring down its public deficit.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "7978a34e161efa67"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n3d5roblpj2g",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n3d5roblpj2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "bb85f1b7307b",
+   "created_at": "2026-11-27T21:45:50Z"
+  },
+  {
+   "id": "08ea62323c20",
+   "ts": "2026-11-27T20:45:15Z",
+   "headline": "US military disables a ship running its Iran blockade as Tehran vows to keep the Strait of Hormuz shut",
+   "detail": "The US military said on Friday that it had disabled a commercial ship trying to break its blockade of Iran, Reuters reports. An adviser to Iran's supreme leader said Tehran would keep the Strait of Hormuz closed and would break the US embargo.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "22da898fdefae1d5"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3d2lmjmnz2m",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3d2lmjmnz2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "76de4df31d79",
+   "created_at": "2026-11-27T20:45:48Z"
+  },
+  {
+   "id": "3940f5c24239",
+   "ts": "2026-11-27T20:15:16Z",
+   "headline": "German Bundestag approves €556bn 2027 budget with higher defence spending and heavy new borrowing",
+   "detail": "Reuters reports that Germany's lower house of parliament passed the €556bn ($610bn) 2027 budget on Friday. The budget includes higher defence spending, heavy investment and the second-highest level of new borrowing since the Second World War.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "81182ee603f6a21d"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3cyvzcpjq2h",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3cyvzcpjq2h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b32ace6cdd91",
+   "created_at": "2026-11-27T20:15:53Z"
+  },
+  {
+   "id": "be185e966f20",
+   "ts": "2026-11-27T17:00:57Z",
+   "headline": "ECB's Nagel says further rate hikes may be needed as soon as next month, with eurozone inflation set to stay above 3%",
+   "detail": "ECB policymaker Joachim Nagel said on Friday that the ECB may have to raise interest rates again as early as next month, as he expects eurozone inflation to stay above 3% for some time next year, Reuters reports.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "c7c2c520afbfc063"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3co2kdw4b2h",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3co2kdw4b2h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5688fc8f92ac",
+   "created_at": "2026-11-27T17:01:15Z"
+  },
+  {
+   "id": "553a193ed6ac",
+   "ts": "2026-11-27T16:50:17Z",
+   "headline": "RBI lowers minimum daily cash reserve ratio maintenance requirement to 90% from 99%",
+   "detail": "The Reserve Bank of India said on Friday that the cut to the minimum daily maintenance of the cash reserve ratio takes effect from the fortnight beginning 1 December.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "48b668f61530b523"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3cnhhtla42i",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3cnhhtla42i"
+    }
+   ],
+   "model": "opus",
+   "run_id": "aff59de9e26d",
+   "created_at": "2026-11-27T16:50:57Z"
+  },
+  {
+   "id": "b3dde65daa69",
+   "ts": "2026-11-27T16:45:15Z",
+   "headline": "US goods trade deficit widens further as imports hit a record high, with AI-related goods contributing",
+   "detail": "Commerce Department data show US imports at a record high. Reuters reports that the rise was driven in part by AI-related goods and also included motor vehicles, industrial supplies and consumer goods.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "582fad156525ddbb"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3cn6hpbiv2g",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3cn6hpbiv2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9295dda05c2c",
+   "created_at": "2026-11-27T16:46:03Z"
+  },
+  {
+   "id": "6fde218fe1dc",
+   "ts": "2026-11-27T16:01:03Z",
+   "headline": "EU leaders' talks on the €1.6tn 2028-2034 EU budget collapse amid divisions among member states",
+   "detail": "Reuters reports that the talks among EU leaders on the bloc's 2028-2034 budget collapsed, with divisions between member states deeper than expected.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "bba9125036f756f4"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3ckpgaz6v23",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3ckpgaz6v23"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6e153875f361",
+   "created_at": "2026-11-27T16:01:17Z"
+  },
+  {
+   "id": "4fe8226137b4",
+   "ts": "2026-11-27T15:05:12Z",
+   "headline": "Iraq says it treats any oil exports that bypass state marketer SOMO as smuggling",
+   "detail": "An Iraqi government spokesman told the state news agency on Friday that oil exports outside SOMO count as smuggling because the money does not reach the state treasury, Reuters reports.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "e558bc5118072888"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3chlkvrys2b",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3chlkvrys2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "44b734015344",
+   "created_at": "2026-11-27T15:05:50Z"
+  },
+  {
+   "id": "b00b1e276471",
+   "ts": "2026-11-27T14:10:12Z",
+   "headline": "Trump backs Iraqi prime minister's push to assert state control, including a halt to Iraqi oil smuggling",
+   "detail": "US President Donald Trump on Friday backed the Iraqi leader's efforts to strengthen state authority, including measures to stop Iraqi oil smuggling, Reuters reports. The moves put Baghdad in direct confrontation with Iran's militia allies and Kurdish authorities.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "23f67c01ff1d186a"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3ceja2b6v2w",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3ceja2b6v2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "704cf829964a",
+   "created_at": "2026-11-27T14:10:57Z"
+  },
+  {
+   "id": "b17d1d82bf36",
+   "ts": "2026-11-27T13:50:15Z",
+   "headline": "Russia's Novak says Novatek has signed a contract to supply LNG to Turkey starting 1 January",
+   "detail": "Russian Deputy Prime Minister Alexander Novak said on Friday that Novatek, Russia's largest LNG producer, has signed a deal to supply liquefied natural gas to Turkey from 1 January. He said volumes would be modest at first.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "7a51aba8fed853a1"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3cdfjz7mx2v",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3cdfjz7mx2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3695511501da",
+   "created_at": "2026-11-27T13:50:54Z"
+  },
+  {
+   "id": "2e6c99aa2e70",
+   "ts": "2026-11-27T13:45:13Z",
+   "headline": "Russia's Novak says the energy ministry is in contact with the US over its diesel supply deal",
+   "detail": "Russian Deputy Prime Minister Alexander Novak said on Friday that the energy ministry is in contact with the United States about its deal to supply diesel, Reuters reports. No further details were given.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "33b58dc425bdb3c6"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3cd4jsrlb2i",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3cd4jsrlb2i"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4c4facf5e225",
+   "created_at": "2026-11-27T13:45:55Z"
+  },
+  {
+   "id": "bfa97c25b856",
+   "ts": "2026-11-27T13:10:16Z",
+   "headline": "Zambia's central bank holds its benchmark lending rate and expects inflation to stay within target",
+   "detail": "Reuters reports that the Bank of Zambia left its key lending rate unchanged on Friday. The bank said it forecasts inflation to remain within its target band.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "29a6bd046c483def"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3cb627d3s2m",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3cb627d3s2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "426ffaa4bdae",
+   "created_at": "2026-11-27T13:10:52Z"
+  },
+  {
+   "id": "55dc1670935b",
+   "ts": "2026-11-27T13:00:52Z",
+   "headline": "German unemployment rises more than expected in November and goes above 3 million",
+   "detail": "Labour office figures released on Friday show German unemployment rose by more than expected on a seasonally adjusted basis in November, taking the total above the politically important 3 million mark, Reuters reports.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "11f139763f89a927"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3can7x72n2x",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3can7x72n2x"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f334fa0e92f3",
+   "created_at": "2026-11-27T13:01:17Z"
+  },
+  {
+   "id": "2e217a1cbf9e",
+   "ts": "2026-11-27T11:45:13Z",
+   "headline": "ECB survey shows eurozone consumers sharply raised their one-year-ahead inflation expectations last month",
+   "detail": "The European Central Bank's consumer expectations survey, published on Friday, showed a sharp rise in expected inflation for the year ahead and a significant rise in perceived inflation, Reuters reports. Reuters says the results strengthen the case for another ECB rate hike.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "d5b67092a831718b"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3c4fxgmry2j",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3c4fxgmry2j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ad6fb4b1414f",
+   "created_at": "2026-11-27T11:45:49Z"
+  },
+  {
+   "id": "6b1c6478a418",
+   "ts": "2026-11-27T11:29:09Z",
+   "headline": "ONS data show UK's poorest households faced 4.1% average inflation in September, against 3.6% for the richest",
+   "detail": "The Resolution Foundation highlighted new ONS figures on household inflation. They show an average inflation rate of 4.1% in September for the poorest fifth of households and 3.6% for the richest.",
+   "category": "data",
+   "importance": 1,
+   "source_event_ids": [
+    "26973b926c87f837"
+   ],
+   "sources": [
+    {
+     "author": "resolutionfoundation.org",
+     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3n3c3j7rcac24",
+     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3n3c3j7rcac24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1f0c21b9c3da",
+   "created_at": "2026-11-27T11:31:16Z"
+  },
+  {
+   "id": "1e7374a11347",
+   "ts": "2026-11-27T10:40:13Z",
+   "headline": "Spain's EU-harmonised inflation slows to 4.1% in November from 4.9% in October",
+   "detail": "Spain's National Statistics Institute (INE) published preliminary figures on Friday showing the EU-harmonised annual inflation rate fell to 4.1% in November, down from 4.9% in October.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "aa7ca3e551e791ff"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3byrq7ddf2h",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3byrq7ddf2h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "32137da91bec",
+   "created_at": "2026-11-27T10:40:53Z"
+  },
+  {
+   "id": "2e5adcff665d",
+   "ts": "2026-11-27T10:00:42Z",
+   "headline": "French inflation comes in at 3.2% in November on preliminary data, slower than expected",
+   "detail": "France's INSEE statistics agency published preliminary figures on Friday showing consumer prices rose 3.2% in November, a slower rise than expected, Reuters reports.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "458e14adae74922c"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3bwl2seqs2j",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3bwl2seqs2j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fe7270f47831",
+   "created_at": "2026-11-27T10:01:16Z"
+  },
+  {
+   "id": "456de2b8ef1c",
+   "ts": "2026-11-27T09:16:26Z",
+   "headline": "Resolution Foundation says January energy bills will be about £50 higher in real terms than at the peak of the last energy crisis",
+   "detail": "The Resolution Foundation says the energy price cap will rise to £2,166 a year for a typical household in Q1 2027. It calculates that January bills will be around £50 higher in real terms than at the peak of the last energy crisis, and says support for households is thinly spread.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "151aaba0a455b2f0"
+   ],
+   "sources": [
+    {
+     "author": "resolutionfoundation.org",
+     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3n3bu3wa7ys2c",
+     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3n3bu3wa7ys2c"
+    }
+   ],
+   "model": "opus",
+   "run_id": "63509bc68cea",
+   "created_at": "2026-11-27T09:20:52Z"
+  },
+  {
+   "id": "bb4e6a907148",
+   "ts": "2026-11-27T08:48:50Z",
+   "headline": "French economy contracts 0.2% in Q3, a weaker reading than the initial estimate",
+   "detail": "Revised figures show French GDP fell 0.2% in the third quarter, which is worse than the first estimate, the FT reports.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "01c5d8bd114f99c4"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n3bskkzrdz2b",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n3bskkzrdz2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0fe6590db484",
+   "created_at": "2026-11-27T08:50:52Z"
+  },
+  {
+   "id": "56bdd5198278",
+   "ts": "2026-11-27T07:30:17Z",
+   "headline": "India's trade minister says a trade deal with the US is close to completion as both sides aim to avoid higher US tariffs",
+   "detail": "Indian Trade Minister Piyush Goyal said on Friday that India and the US are near to concluding a long-awaited trade deal, Reuters reports. The talks are aimed at avoiding higher US tariffs on Indian imports.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "fec5d6f77696e589"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3bo643agr2k",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3bo643agr2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1afda433833b",
+   "created_at": "2026-11-27T07:31:03Z"
+  },
+  {
+   "id": "7ddfad5683d0",
+   "ts": "2026-11-27T07:15:11Z",
+   "headline": "China shares and yuan rally after State Council pledges stronger support for the stock market",
+   "detail": "Reuters reports that China's share benchmarks rose more than 3% on Friday and the yuan recovered its earlier losses. The moves followed a State Council meeting chaired by Premier Li Qiang, which called for state-backed 'national team' investors to do more to stabilise the falling market.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "572f7d34c2bf32ea"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3bnd46qhm2c",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3bnd46qhm2c"
+    }
+   ],
+   "model": "opus",
+   "run_id": "740b277cfb8e",
+   "created_at": "2026-11-27T07:15:50Z"
+  },
+  {
+   "id": "c456ba67430f",
+   "ts": "2026-11-27T06:30:18Z",
+   "headline": "RBI lets the rupee strengthen as foreign inflows return, rather than buying dollars to rebuild reserves, Reuters reports",
+   "detail": "Reuters reports that India's central bank is using renewed foreign inflows to break market bets on a one-way fall in the rupee. It is letting the currency rise instead of buying dollars to rebuild its reserves.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "3c197390cc9c9970"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3bksuawve2x",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3bksuawve2x"
+    }
+   ],
+   "model": "opus",
+   "run_id": "22cc366c90d2",
+   "created_at": "2026-11-27T06:31:05Z"
+  },
+  {
+   "id": "e03e181a7a6a",
+   "ts": "2026-11-27T06:10:11Z",
+   "headline": "US urged Venezuela and Iraq to consider quitting OPEC earlier this year, Reuters reports",
+   "detail": "Reuters cites ten people familiar with the matter as saying the Trump administration encouraged Venezuela and Iraq to weigh leaving OPEC. The sources also say it stopped Venezuela from paying its annual membership dues to the group.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "8f1d2a9b6efd88fe"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3bjoumsbu2y",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3bjoumsbu2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d1837bc7b86e",
+   "created_at": "2026-11-27T06:10:53Z"
+  },
+  {
+   "id": "3c770a79404e",
+   "ts": "2026-11-27T05:20:17Z",
+   "headline": "Iran's foreign minister tells South Korea that foreign military forces in the Gulf would raise tensions",
+   "detail": "Iran's foreign minister told his South Korean counterpart that a foreign military presence in the Gulf would increase tensions rather than support peace, Reuters reports. Seoul is preparing to extend a navy unit's operating area to waters south of the Gulf of Oman.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "76c5b9a449cf9a49"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3bgvntkp42b",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3bgvntkp42b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ceabd4c35760",
+   "created_at": "2026-11-27T06:05:51Z"
+  },
+  {
+   "id": "111d8d6f8bad",
+   "ts": "2026-11-27T00:35:10Z",
+   "headline": "Tokyo core inflation rises at its fastest pace in 16 months in November",
+   "detail": "Reuters reports that annual core inflation in Japan's capital picked up in November to its quickest rate in 16 months. The report says this strengthens the case for a Bank of Japan rate hike as early as next month.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "9a59d1f7e41d8dbc"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3awxsufh52w",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3awxsufh52w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f9c7cc40488c",
+   "created_at": "2026-11-27T06:01:19Z"
+  },
+  {
+   "id": "fa2f69f829a5",
+   "ts": "2026-11-27T00:12:06Z",
+   "headline": "UK cabinet minister Douglas Alexander will call the EU deal a floor, not a ceiling, for the Brexit reset",
+   "detail": "The FT reports that Douglas Alexander will say the prime minister will reject warnings from opposition parties and press ahead with plans to rebuild ties with Brussels.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "f5769a6ddf29a78c"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n3avolayoe22",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n3avolayoe22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f9c7cc40488c",
+   "created_at": "2026-11-27T06:01:19Z"
+  },
+  {
+   "id": "ab9fda1224eb",
+   "ts": "2026-11-26T23:25:09Z",
+   "headline": "Merz says EU leaders will try to agree the next long-term EU budget this year but will not meet again on Friday",
+   "detail": "German Chancellor Friedrich Merz said on Thursday evening that EU leaders aim to reach a deal on the bloc's next long-term budget before the end of the year, Reuters reports. He said no new talks will take place on Friday.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "5c5ea9608e6ec77a"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3at2mmonc2v",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3at2mmonc2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f9c7cc40488c",
+   "created_at": "2026-11-27T06:01:19Z"
+  },
+  {
+   "id": "4c1ac2d30f63",
+   "ts": "2026-11-26T20:15:13Z",
+   "headline": "Saudi Energy Ministry says aerial strike on Aramco's Jazan refinery halts some operations and kills a worker",
+   "detail": "Saudi Arabia's Energy Ministry said a hostile aerial projectile hit Saudi Aramco's Jazan refinery on Thursday, temporarily halting some operations, killing one worker and wounding several others, Reuters reports. The Houthis had earlier said they struck a Saudi oil refinery.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "13da2daacbbbfebf"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3aigygu3e2e",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3aigygu3e2e"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a37ba3e61a19",
+   "created_at": "2026-11-26T20:15:55Z"
+  },
+  {
+   "id": "6d133ae483a3",
+   "ts": "2026-11-26T19:45:13Z",
+   "headline": "Germany's IG Metall agrees a pay deal with metal and electrical industry employers",
+   "detail": "Reuters reports that the German trade union IG Metall reached a pay agreement with employers in the struggling metal and electrical industry on Thursday, after a fourth round of talks that lasted 26 hours. The report gives no pay figures.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "cacfba6dc5633397"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3agrdq6v32h",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3agrdq6v32h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8e7dae01d9a4",
+   "created_at": "2026-11-26T19:45:57Z"
+  },
+  {
+   "id": "2658b1e282d5",
+   "ts": "2026-11-26T18:50:14Z",
+   "headline": "BoE says global financial system risks have intensified as Middle East conflict drags on and AI firms borrow heavily",
+   "detail": "The Bank of England said on Thursday that risks in the global financial system have grown in recent months as the Middle East conflict has pushed up inflation and interest rates. It pointed to heavy borrowing by AI companies and by governments, Reuters reports.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "3787059fad00a70b"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3adp22e762h",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3adp22e762h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "58f89467d7eb",
+   "created_at": "2026-11-26T18:50:56Z"
+  },
+  {
+   "id": "980e3b4018ad",
+   "ts": "2026-11-26T18:25:11Z",
+   "headline": "Hernández de Cos is chosen to succeed Lagarde as ECB president",
+   "detail": "Reuters reports that Pablo Hernández de Cos was picked on Thursday as the next president of the European Central Bank, succeeding Christine Lagarde. Reuters describes him as a career technocrat with a background in monetary policy.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "4a52c652dc8a533e"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3acca2pws2k",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3acca2pws2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d5345b91e373",
+   "created_at": "2026-11-26T18:25:44Z"
+  },
+  {
+   "id": "ef45ff8430c7",
+   "ts": "2026-11-26T17:29:56Z",
+   "headline": "BoE's Bailey says AI models not yet released have raised concerns about encryption",
+   "detail": "The FT reports the Bank of England Governor's remarks, which follow breakthroughs in mathematics that have raised fears about the security of data across financial systems.",
+   "category": "boe",
+   "importance": 1,
+   "source_event_ids": [
+    "fdd7dab06dc3a4d0"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n3a77h564f22",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n3a77h564f22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "29d5b8afb17b",
+   "created_at": "2026-11-26T17:31:02Z"
+  },
+  {
+   "id": "8056a859c4cd",
+   "ts": "2026-11-26T16:32:25Z",
+   "headline": "Resolution Foundation says UK has had five years of inflation equal to 13 years at a normal pace",
+   "detail": "The Resolution Foundation says the UK has seen inflation over five years equivalent to 13 years of normal inflation. It also says the cost of living crisis hit the UK harder than other countries.",
+   "category": "data",
+   "importance": 1,
+   "source_event_ids": [
+    "4c1eec406b111ba9"
+   ],
+   "sources": [
+    {
+     "author": "resolutionfoundation.org",
+     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3n3a3ylmeby2m",
+     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3n3a3ylmeby2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "61ff5e46d290",
+   "created_at": "2026-11-26T16:35:50Z"
+  },
+  {
+   "id": "0a31900f99de",
+   "ts": "2026-11-26T16:25:10Z",
+   "headline": "ECB accounts show broad support for a rate hike in October, with policymakers delaying to gather more evidence on inflation",
+   "detail": "Accounts of the ECB's 28-29 October meeting, published on Thursday, show policymakers leaned towards raising rates but chose to wait for more evidence on inflation risks, Reuters reports.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "209a0a030acfe585"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3a3lmrlcw23",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3a3lmrlcw23"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f9fddebf7878",
+   "created_at": "2026-11-26T16:25:44Z"
+  },
+  {
+   "id": "0b72a8f4077f",
+   "ts": "2026-11-26T15:30:28Z",
+   "headline": "Italy's Meloni says EU leaders remain far from a deal on the proposed €1.6tn 2028-2034 EU budget",
+   "detail": "Italian Prime Minister Giorgia Meloni said on Thursday that EU leaders are far from agreeing the bloc's proposed budget of nearly €1.6 trillion for 2028 to 2034, Reuters reports. She also issued a warning to Ukraine over a strike in the Mediterranean.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "4717a223e19b49ce"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n37yjtcsuz2v",
+     "url": "https://bsky.app/profile/reuters.com/post/3n37yjtcsuz2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ad29ea7d0329",
+   "created_at": "2026-11-26T15:31:04Z"
+  },
+  {
+   "id": "8a673cadaccf",
+   "ts": "2026-11-26T15:19:16Z",
+   "headline": "Fed is set to raise rates despite the stock market sell-off, with inflation officials' main worry, FT reports",
+   "detail": "The Financial Times reports that US Federal Reserve officials see inflation as their top concern, even though a tech-led equity sell-off has raised fears about the economy.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "4b7cf6e497ca0afe"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n37xvs7q242z",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n37xvs7q242z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f5cc959739e6",
+   "created_at": "2026-11-26T15:20:55Z"
+  },
+  {
+   "id": "d424e7c64f28",
+   "ts": "2026-11-26T14:50:15Z",
+   "headline": "OPEC+ is likely to keep its oil output targets unchanged for Q1 2027 at Sunday's meeting, sources tell Reuters",
+   "detail": "Two people with knowledge of the talks told Reuters that OPEC+ is likely to hold its output targets for at least the first quarter of 2027. The sources said the Iran war is still disrupting Middle East exports and some members still disagree over production capacity assessments.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "c7dd4366b9340509"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n37wbvzkgj23",
+     "url": "https://bsky.app/profile/reuters.com/post/3n37wbvzkgj23"
+    }
+   ],
+   "model": "opus",
+   "run_id": "abf0ebcdb446",
+   "created_at": "2026-11-26T14:50:59Z"
+  },
+  {
+   "id": "f4947d15ba47",
+   "ts": "2026-11-26T13:50:18Z",
+   "headline": "Most Gulf stock markets close lower after reported attacks on Saudi energy assets and continuing shipping risks",
+   "detail": "Reuters reports that most Gulf bourses ended Thursday lower as investors assessed reported strikes on Saudi energy facilities and continuing dangers to shipping in the region.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "9dba22546335745a"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n37swphtni2h",
+     "url": "https://bsky.app/profile/reuters.com/post/3n37swphtni2h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ecdf768ab935",
+   "created_at": "2026-11-26T13:51:03Z"
+  },
+  {
+   "id": "2554cabe3b37",
+   "ts": "2026-11-26T13:44:47Z",
+   "headline": "Dutch government drops support for Knot, leaving Hernández de Cos to succeed Lagarde as ECB president, FT reports",
+   "detail": "The FT reports that Pablo Hernández de Cos will be the next ECB president after the Dutch government withdrew its backing for rival candidate Klaas Knot.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "fb9a140e70f0d24d"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n37smtavqr2j",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n37smtavqr2j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "52882eccc56a",
+   "created_at": "2026-11-26T13:45:54Z"
+  },
+  {
+   "id": "a50f6bd80ed2",
+   "ts": "2026-11-26T12:52:39Z",
+   "headline": "BoE says 6.5m UK mortgage borrowers face higher monthly payments as they refinance onto higher fixed rates",
+   "detail": "City AM reports that the Bank of England warned 6.5m borrowers face higher monthly payments in the coming years as they move onto higher fixed rates, and that the Iran war helped push up interest rates. It says around 3.4m of these borrowers are expected to face smaller increases.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "2a352edeced01660"
+   ],
+   "sources": [
+    {
+     "author": "cityam.com.web.brid.gy",
+     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3n37si7jg2y32",
+     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3n37si7jg2y32"
+    }
+   ],
+   "model": "opus",
+   "run_id": "52882eccc56a",
+   "created_at": "2026-11-26T13:45:54Z"
+  },
+  {
+   "id": "ce80a2b9f4fa",
+   "ts": "2026-11-26T12:42:50Z",
+   "headline": "ONS figures show UK young people not in education, employment or training rise as young women leave labour market",
+   "detail": "City AM reports the ONS data show a rise in 16 to 24-year-olds not in education, employment or training, at about one in eight young people. The rise was driven by young women leaving the labour market.",
+   "category": "data",
+   "importance": 1,
+   "source_event_ids": [
+    "cc3d4c2042acab29"
+   ],
+   "sources": [
+    {
+     "author": "cityam.com.web.brid.gy",
+     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3n37sip5hy2j2",
+     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3n37sip5hy2j2"
+    }
+   ],
+   "model": "opus",
+   "run_id": "52882eccc56a",
+   "created_at": "2026-11-26T13:45:54Z"
+  },
+  {
+   "id": "e309cf4c922b",
+   "ts": "2026-11-26T13:33:56Z",
+   "headline": "Hernández de Cos is set to succeed Lagarde as ECB president after most eurozone countries back him, FT reports",
+   "detail": "The Financial Times reports that a majority of eurozone countries have endorsed Pablo Hernández de Cos to become the next president of the European Central Bank, succeeding Christine Lagarde.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "c31d953bf233e703"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n37rzgkcaa2j",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n37rzgkcaa2j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "83f43589665c",
+   "created_at": "2026-11-26T13:35:40Z"
+  },
+  {
+   "id": "bd181b2b1f96",
+   "ts": "2026-11-26T13:30:27Z",
+   "headline": "India's swaps and T-bills point to a small chance that the RBI raises rates by more than 25bp next week",
+   "detail": "Reuters reports that India's overnight index swap market and very short-dated government debt yields are pricing an outside chance that the Reserve Bank of India raises rates next Friday by more than the 25bp most economists expect.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "a8b33ae968c59657"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n37rt7zao523",
+     "url": "https://bsky.app/profile/reuters.com/post/3n37rt7zao523"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1dda11c9753b",
+   "created_at": "2026-11-26T13:31:09Z"
+  },
+  {
+   "id": "e3929e6fadc0",
+   "ts": "2026-11-26T13:24:34Z",
+   "headline": "UK to pay an extra participation fee to the EU under its reset deal, FT reports",
+   "detail": "The Financial Times reports that the terms of the agreement the UK signed with Brussels last week include a financial settlement, which EU diplomats call a pay-to-play arrangement. The report gives no amount.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "140f29c9c46c216b"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n37riojaiy2o",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n37riojaiy2o"
+    }
+   ],
+   "model": "opus",
+   "run_id": "30a853a43e23",
+   "created_at": "2026-11-26T13:25:42Z"
+  },
+  {
+   "id": "322e7454c76c",
+   "ts": "2026-11-26T12:45:13Z",
+   "headline": "German consumer sentiment rises slightly going into December but stays low",
+   "detail": "A survey published on Thursday shows German consumer sentiment rising a little going into December, helped by slightly better income expectations, Reuters reports. Sentiment remains at a low level.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "a4d0e6a130367d42"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n37pcczno42k",
+     "url": "https://bsky.app/profile/reuters.com/post/3n37pcczno42k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "bcd916c88035",
+   "created_at": "2026-11-26T12:45:49Z"
+  },
+  {
+   "id": "fddcb3815cba",
+   "ts": "2026-11-26T12:30:38Z",
+   "headline": "IFS says the Welsh Government's draft Budget gives an overly optimistic picture of spending, especially capital investment",
+   "detail": "The Institute for Fiscal Studies has published a comment on Welsh Government funding. It says the spending figures in the draft Budget make the outlook for services, and capital investment in particular, look better than it is.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "da3049558e88e51c"
+   ],
+   "sources": [
+    {
+     "author": "theifs.bsky.social",
+     "uri": "at://did:plc:migxim34fyw7yvdbzw5maym5/app.bsky.feed.post/3n37oib3mms2p",
+     "url": "https://bsky.app/profile/theifs.bsky.social/post/3n37oib3mms2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e383c97469b2",
+   "created_at": "2026-11-26T12:31:05Z"
+  },
+  {
+   "id": "3177fa0b6fd6",
+   "ts": "2026-11-26T12:10:14Z",
+   "headline": "Rwanda's central bank raises its benchmark rate by 75bp to 9.5%, its fourth hike this year",
+   "detail": "Reuters reports that the National Bank of Rwanda raised its benchmark lending rate on Thursday, with inflation well above its target.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "158a0947893e2e62"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n37ndrjcrx2k",
+     "url": "https://bsky.app/profile/reuters.com/post/3n37ndrjcrx2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "095f5771b12f",
+   "created_at": "2026-11-26T12:10:48Z"
+  },
+  {
+   "id": "c51ed6f367f3",
+   "ts": "2026-11-26T11:45:14Z",
+   "headline": "European shares rise more than 1% on signs that planned US tariffs on the EU may be milder than feared",
+   "detail": "Reuters reports that European stocks gained more than 1% on Thursday, led by a rebound in banks and technology, as investors took comfort from signs that the planned US tariffs on the European Union may be less severe than expected.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "191ee31057910851"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n37lx37ntg23",
+     "url": "https://bsky.app/profile/reuters.com/post/3n37lx37ntg23"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e610f1eadfd0",
+   "created_at": "2026-11-26T11:46:22Z"
+  },
+  {
+   "id": "933777e621af",
+   "ts": "2026-11-26T11:25:13Z",
+   "headline": "BoE to lower bank capital requirements and warns lenders about AI and cyber risks, FT reports",
+   "detail": "The Financial Times reports that the Bank of England will cut capital requirements for banks. It also reports that the central bank is telling lenders to keep up with cyber threats that are growing in scale and sophistication.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "e84deba491692b93"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n37ktbc4as2o",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n37ktbc4as2o"
+    }
+   ],
+   "model": "opus",
+   "run_id": "40a5fedec720",
+   "created_at": "2026-11-26T11:25:52Z"
+  },
+  {
+   "id": "ff0f4bf3bed4",
+   "ts": "2026-11-26T10:25:09Z",
+   "headline": "UK signs £8bn contract with Babcock to upgrade nuclear submarine facilities",
+   "detail": "Reuters reports the government signed an £8bn ($10.48bn) contract with Babcock to upgrade its nuclear submarine facilities. The defence minister said on Thursday the focus was on making the country ready to fight a war.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "fcbf726c76a46eeb"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n37hhvat6s2k",
+     "url": "https://bsky.app/profile/reuters.com/post/3n37hhvat6s2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a862ad293632",
+   "created_at": "2026-11-26T10:25:41Z"
+  },
+  {
+   "id": "fd066190915f",
+   "ts": "2026-11-26T09:57:35Z",
+   "headline": "UK net migration falls by more than half to 77,000, FT reports",
+   "detail": "The FT reports that UK net migration has fallen by more than half to 77,000. It links the fall to tighter rules for workers, students and refugees.",
+   "category": "data",
+   "importance": 1,
+   "source_event_ids": [
+    "c3145cc7b3c8a515",
+    "e3f5417629313930"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n37fwkqnmh2q",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n37fwkqnmh2q"
+    },
+    {
+     "author": "gilesyb.bsky.social",
+     "uri": "at://did:plc:cdklqekun5o7gvz4sbujp3b3/app.bsky.feed.post/3n37g3oyhrs2s",
+     "url": "https://bsky.app/profile/gilesyb.bsky.social/post/3n37g3oyhrs2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9c2be7e4f966",
+   "created_at": "2026-11-26T10:01:14Z"
+  },
+  {
+   "id": "46f93a95079b",
+   "ts": "2026-11-26T07:15:11Z",
+   "headline": "Singapore says it is very disappointed by the new US tariffs and asks Washington to reconsider",
+   "detail": "Singapore's government said on Thursday the latest US tariffs on the city-state did not take account of the structure of its economy, Reuters reports. It asked the United States to reconsider the decision.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "265e22a0e8e7405b"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n374u6jccw2h",
+     "url": "https://bsky.app/profile/reuters.com/post/3n374u6jccw2h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d7900dbcad3b",
+   "created_at": "2026-11-26T07:15:56Z"
+  },
+  {
+   "id": "ed10268db334",
+   "ts": "2026-11-26T06:50:11Z",
+   "headline": "South Korea plans further talks with the US to protect its interests after new US tariffs",
+   "detail": "South Korea said on Thursday that its manufacturing sector is an integral part of US supply chains and that it will hold more talks with Washington, Reuters reports. The US announced the new tariffs under a probe into unfair trade practices.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "f8029e1df4640a86"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n373hi6t2z23",
+     "url": "https://bsky.app/profile/reuters.com/post/3n373hi6t2z23"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b55d5f06dd10",
+   "created_at": "2026-11-26T06:50:56Z"
+  },
+  {
+   "id": "110c578b1051",
+   "ts": "2026-11-26T06:25:10Z",
+   "headline": "Oil rises in early Asian trade on supply worries after Houthi refinery strike claim and Hormuz mine incidents",
+   "detail": "Reuters reports crude prices rose in early Asian trading on Thursday, adding to gains from the previous session. The move followed a Houthi claim to have hit Saudi Arabia's largest oil refinery and reports that at least two ships struck Iranian mines in the Strait of Hormuz; Reuters gave no percentage move.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "e80958edd7792abb"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3722qw4xv2x",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3722qw4xv2x"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c983e89da64c",
+   "created_at": "2026-11-26T06:25:45Z"
+  },
+  {
+   "id": "557667b53304",
+   "ts": "2026-11-26T05:20:14Z",
+   "headline": "BoJ board member Tamura says the bank may need to speed up rate hikes if inflation overshoots",
+   "detail": "Bank of Japan board member Naoki Tamura said on Thursday that the bank must respond quickly to signs of an inflation overshoot, including by raising rates faster. Reuters reports that his comments keep a possible December rate rise in play.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "6ed066061b456bde"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n36wgms7e22e",
+     "url": "https://bsky.app/profile/reuters.com/post/3n36wgms7e22e"
+    }
+   ],
+   "model": "opus",
+   "run_id": "363e56e0995d",
+   "created_at": "2026-11-26T06:05:41Z"
+  },
+  {
+   "id": "94c03742d095",
+   "ts": "2026-11-26T03:40:13Z",
+   "headline": "Vietnam says it is working with the US to finish a trade deal as soon as possible after the new US tariffs",
+   "detail": "Vietnam's trade ministry made the statement hours after the Trump administration announced new tariffs on 14 trading partners over excess factory capacity, Reuters reports.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "e7f872061d53a0c7"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n36qtsqoiz2c",
+     "url": "https://bsky.app/profile/reuters.com/post/3n36qtsqoiz2c"
+    }
+   ],
+   "model": "opus",
+   "run_id": "640b86aec6cd",
+   "created_at": "2026-11-26T06:01:12Z"
+  },
+  {
+   "id": "e45bcc3a1c52",
+   "ts": "2026-11-26T03:10:12Z",
+   "headline": "Taiwan says it expects to keep its existing 15% US tariff rate after Trump's new tariffs on 14 trading partners",
+   "detail": "Taiwan's government said on Thursday it was confident of keeping the tariff rate it had already agreed with the US, Reuters reports.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "9e1c3269d47286af"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n36p64titp2i",
+     "url": "https://bsky.app/profile/reuters.com/post/3n36p64titp2i"
+    }
+   ],
+   "model": "opus",
+   "run_id": "640b86aec6cd",
+   "created_at": "2026-11-26T06:01:12Z"
+  },
+  {
+   "id": "62404bba72ac",
+   "ts": "2026-11-26T02:07:54Z",
+   "headline": "Bank of Korea raises its benchmark rate to 3.25%, its third quarter-point hike this year",
+   "detail": "The FT reports that the Bank of Korea raised rates amid a boom in AI chips. This is the third quarter-point increase this year.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "aeb8b9654472b7a2"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n36loq5on52j",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n36loq5on52j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "640b86aec6cd",
+   "created_at": "2026-11-26T06:01:12Z"
+  },
+  {
+   "id": "7a3d68d2ce53",
+   "ts": "2026-11-25T23:25:10Z",
+   "headline": "Fed Beige Book shows US growth continuing at a slight to moderate pace, with inflation still sticky",
+   "detail": "The Federal Reserve survey published on Wednesday found growth across most of the US, sticky inflation and rising employment in recent weeks, Reuters reports. It comes two weeks before Fed policymakers decide whether to raise rates.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "7ce786b014b346a3"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n36clpmbly2m",
+     "url": "https://bsky.app/profile/reuters.com/post/3n36clpmbly2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "640b86aec6cd",
+   "created_at": "2026-11-26T06:01:12Z"
+  },
+  {
+   "id": "0f8170cf75f9",
+   "ts": "2026-11-25T21:35:12Z",
+   "headline": "India denies having structural excess capacity in any sector after the US tariff determination, still seeks an early trade deal",
+   "detail": "India's government responded on Wednesday after the US announced a new round of tariffs on 14 major trading partners. It said it remains committed to concluding a trade deal with the US soon, Reuters reports.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "e68e6de7242b6a0e"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n364h3zhiy2i",
+     "url": "https://bsky.app/profile/reuters.com/post/3n364h3zhiy2i"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d83e2c197a71",
+   "created_at": "2026-11-25T21:35:49Z"
+  },
+  {
+   "id": "3cb7297d5676",
+   "ts": "2026-11-25T21:15:16Z",
+   "headline": "Investors move into safe havens as Trump's latest tariffs add to a sell-off in AI stocks, Reuters reports",
+   "detail": "Reuters reports a sharp rise in market volatility, with investors moving into safe-haven assets as risks from President Trump's latest tariffs add to the rout in AI-related stocks. The report gives no figures for the moves.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "100ed9110a66e5ed"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n363dgyeo32g",
+     "url": "https://bsky.app/profile/reuters.com/post/3n363dgyeo32g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e8bbf34136ec",
+   "created_at": "2026-11-25T21:15:52Z"
+  },
+  {
+   "id": "6b1301175263",
+   "ts": "2026-11-25T21:10:15Z",
+   "headline": "US new home sales jump to a 10-month high in October as builders cut prices",
+   "detail": "Reuters reports that sales of new US single-family homes rose sharply in October, helped by builders cutting prices. It says rising mortgage rates are still holding back wider housing market activity.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "8c1beb7c2e513f42"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3632iirez2g",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3632iirez2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "799e73d31f65",
+   "created_at": "2026-11-25T21:10:50Z"
+  },
+  {
+   "id": "b4e83c2e46af",
+   "ts": "2026-11-25T20:45:18Z",
+   "headline": "BoE's Bailey says UK inflation may peak lower than forecast if energy prices stay at current levels",
+   "detail": "Bank of England Governor Andrew Bailey said on Wednesday that UK inflation may not rise as high as the Bank forecast earlier this month if international energy prices settle at current levels after recent falls, Reuters reports.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "b740a4cb482dc270"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n35znufidu2j",
+     "url": "https://bsky.app/profile/reuters.com/post/3n35znufidu2j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b088d026d130",
+   "created_at": "2026-11-25T20:45:57Z"
+  },
+  {
+   "id": "0a26733ffdb4",
+   "ts": "2026-11-25T19:00:51Z",
+   "headline": "US consortium led by Todd Boehly signs share swap deal to buy sanctioned Lukoil's international energy assets",
+   "detail": "Reuters reports that US billionaire Todd Boehly said on Wednesday he had signed a deal with Lukoil for a consortium that includes the US International Development Finance Corp to acquire the sanctioned Russian oil company's international energy assets.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "18573ca94e0b4d92"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n35tt3xkb32y",
+     "url": "https://bsky.app/profile/reuters.com/post/3n35tt3xkb32y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ba7f9e372d2a",
+   "created_at": "2026-11-25T19:01:17Z"
+  },
+  {
+   "id": "b45636f8d8f0",
+   "ts": "2026-11-25T18:40:20Z",
+   "headline": "RBI bulletin says India's food inflation pressures remain broad-based and shows it was a net dollar buyer in September",
+   "detail": "The Reserve Bank of India's monthly bulletin, reported by Reuters, comes days before its policy review. Reuters says the central bank is widely expected to raise rates for a second meeting in a row.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "85bd6af81c9cb3b3"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n35soffggw2g",
+     "url": "https://bsky.app/profile/reuters.com/post/3n35soffggw2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "cdf2a047289e",
+   "created_at": "2026-11-25T18:40:50Z"
+  },
+  {
+   "id": "651e1541cc45",
+   "ts": "2026-11-25T17:50:17Z",
+   "headline": "US will cap its tariff on Indian imports at 17% if a trade deal is reached, USTR says",
+   "detail": "US Trade Representative Jamieson Greer said on Wednesday that tariffs on goods from India would be capped at 17% if Washington and New Delhi reach a trade deal, Reuters reports.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "9f9709048cae9d16"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n35puvm2vy23",
+     "url": "https://bsky.app/profile/reuters.com/post/3n35puvm2vy23"
+    }
+   ],
+   "model": "opus",
+   "run_id": "02c998edc7af",
+   "created_at": "2026-11-25T17:50:53Z"
+  },
+  {
+   "id": "7c69df4185e5",
+   "ts": "2026-11-25T17:30:31Z",
+   "headline": "US weekly jobless claims fall by more than expected",
+   "detail": "Reuters reports that new US claims for unemployment benefits fell by more than forecast last week, a sign of steady labour market conditions. No figures were given in the report.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "30cf5552007d0f69"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n35orkvsuv2v",
+     "url": "https://bsky.app/profile/reuters.com/post/3n35orkvsuv2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1eebcad470db",
+   "created_at": "2026-11-25T17:31:02Z"
+  },
+  {
+   "id": "22ae28ee7ca0",
+   "ts": "2026-11-25T17:15:13Z",
+   "headline": "US proposes new tariffs on imports from Brazil, including a 10% duty on finished aircraft",
+   "detail": "Reuters reports that the US proposed the tariffs on Wednesday. Washington says Brasilia has not corrected what it calls unreasonable acts, policies and practices.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "a6d7461c4bac494d"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n35nw7deyo2e",
+     "url": "https://bsky.app/profile/reuters.com/post/3n35nw7deyo2e"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f28df9b0c6c4",
+   "created_at": "2026-11-25T17:15:57Z"
+  },
+  {
+   "id": "bc5dc709ea18",
+   "ts": "2026-11-25T16:40:17Z",
+   "headline": "US inflation rises further in October, adding to expectations of a Fed rate hike next month, Reuters reports",
+   "detail": "Reuters reports that US inflation increased again in October and is broadening out. It says this came alongside the upward revision to Q3 growth and is strengthening expectations that the Federal Reserve will raise rates next month and again in early 2027.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "a889f424e4d17993"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n35lxq62kh2g",
+     "url": "https://bsky.app/profile/reuters.com/post/3n35lxq62kh2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0df3232dd88a",
+   "created_at": "2026-11-25T16:41:00Z"
+  },
+  {
+   "id": "9d7b65d8ffd6",
+   "ts": "2026-11-25T16:21:18Z",
+   "headline": "US Q3 GDP growth is revised up to an annualised 4.3% from an initial 3.4%",
+   "detail": "The Bureau of Economic Analysis published the revised third-quarter figure. The FT reports that the upgrade keeps a December Fed rate rise in play.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "00c8c9a05e48dedb"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n35kvrx25y2i",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n35kvrx25y2i"
+    }
+   ],
+   "model": "opus",
+   "run_id": "bf4276274c2b",
+   "created_at": "2026-11-25T16:25:43Z"
+  },
+  {
+   "id": "18458b1124e9",
+   "ts": "2026-11-25T14:45:17Z",
+   "headline": "Swiss regulator FINMA says UBS has strengthened its crisis readiness and its resolution strategy is executable in principle",
+   "detail": "FINMA said on Wednesday that UBS had made progress on crisis preparedness and that the regulator's preferred strategy for resolving the bank could in principle be carried out.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "f6252722fe01e683"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n35fk3siji2h",
+     "url": "https://bsky.app/profile/reuters.com/post/3n35fk3siji2h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "625e23f24c54",
+   "created_at": "2026-11-25T14:45:55Z"
+  },
+  {
+   "id": "593c9987b110",
+   "ts": "2026-11-25T14:21:26Z",
+   "headline": "Ofgem's January price cap rise takes the typical household energy bill to £2,166 a year from 1 January",
+   "detail": "The Institute for Government says Ofgem's new cap level of £2,166 applies from 1 January. It links the rise to higher gas prices caused by the conflicts in Ukraine and Iran.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "525cfc46cdd7def0"
+   ],
+   "sources": [
+    {
+     "author": "instituteforgovernment.org.uk",
+     "uri": "at://did:plc:d656x5rt365ylfpbzpwgpl4i/app.bsky.feed.post/3n35e7hqars27",
+     "url": "https://bsky.app/profile/instituteforgovernment.org.uk/post/3n35e7hqars27"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a441582c7a6f",
+   "created_at": "2026-11-25T14:25:42Z"
+  },
+  {
+   "id": "21597477afd5",
+   "ts": "2026-11-25T14:15:21Z",
+   "headline": "Iran says two oil tankers hit naval mines and caught fire in the Strait of Hormuz, tells ships to coordinate passage",
+   "detail": "Iran's Revolutionary Guards Navy said in a statement carried by state media on Wednesday that two oil tankers struck naval mines in the Strait of Hormuz, exploded and caught fire. It warned vessels to coordinate their passage through the strait.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "8bb27eae32fb8459"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n35duljy5423",
+     "url": "https://bsky.app/profile/reuters.com/post/3n35duljy5423"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0e59786f8250",
+   "created_at": "2026-11-25T14:15:59Z"
+  },
+  {
+   "id": "2975fa3b6c76",
+   "ts": "2026-11-25T14:05:08Z",
+   "headline": "US proposes higher tariffs on China, India and other major trading partners, with the steepest rates on China",
+   "detail": "Reuters reports that Washington has proposed raising duties on several major trading partners. The highest rates would apply to China, which the US blames most for flooding world markets with cheap exports.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "9eb3f1571a8e6259"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n35dcd53k52m",
+     "url": "https://bsky.app/profile/reuters.com/post/3n35dcd53k52m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0420de8c13d0",
+   "created_at": "2026-11-25T14:05:44Z"
+  },
+  {
+   "id": "593d1c185009",
+   "ts": "2026-11-25T12:14:06Z",
+   "headline": "Germany's Merz warns that Russia is escalating its conflict in Europe and in space",
+   "detail": "The German chancellor issued the warning while trying to keep up public support for Ukraine among an increasingly sceptical German population, the FT reports.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "1c48a2ccc55088c7"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n3553rh7s622",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n3553rh7s622"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d9ee4bcc4fe6",
+   "created_at": "2026-11-25T12:15:51Z"
+  },
+  {
+   "id": "d4e9c3e2a09e",
+   "ts": "2026-11-25T11:45:14Z",
+   "headline": "Resolution Foundation says OBR forecasts put 2020s income growth on course to be the weakest of any decade on record",
+   "detail": "The Resolution Foundation, citing the latest OBR forecasts, said incomes are set to be 1.4% higher in 2030 than in 2020.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "66d5285ac8bc584b"
+   ],
+   "sources": [
+    {
+     "author": "resolutionfoundation.org",
+     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3n353i5t4wq2m",
+     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3n353i5t4wq2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "706bcd564179",
+   "created_at": "2026-11-25T11:45:51Z"
+  },
+  {
+   "id": "bae62c800a86",
+   "ts": "2026-11-25T11:35:10Z",
+   "headline": "German GDP growth for Q3 is revised down to 0.1% from a preliminary 0.2%",
+   "detail": "Germany's statistics office said on Wednesday that the economy grew 0.1% quarter on quarter in the third quarter of 2026. The preliminary estimate had shown 0.2%.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "710247be1e5abf05"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n352w5wpws2h",
+     "url": "https://bsky.app/profile/reuters.com/post/3n352w5wpws2h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6f6d1cbfae3b",
+   "created_at": "2026-11-25T11:35:39Z"
+  },
+  {
+   "id": "55f790cccb47",
+   "ts": "2026-11-25T11:05:10Z",
+   "headline": "Iran's first vice president says Tehran can withstand a US naval blockade and is moving to curb price rises",
+   "detail": "Iran's first vice president said Tehran was not worried about a US naval blockade because cargo through other borders had risen significantly, Reuters reports. He said the government is seeking to limit price increases.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "9f1f1072446ae3ba"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n34zaiop3w23",
+     "url": "https://bsky.app/profile/reuters.com/post/3n34zaiop3w23"
+    }
+   ],
+   "model": "opus",
+   "run_id": "acf4b428340c",
+   "created_at": "2026-11-25T11:05:44Z"
+  },
+  {
+   "id": "4b55b313f42e",
+   "ts": "2026-11-25T10:05:10Z",
+   "headline": "Houthis say they struck a Saudi oil refinery and Riyadh's financial district",
+   "detail": "Reuters reports Yemen's Houthis claimed attacks on a Saudi oil refinery and on Riyadh's financial district. Saudi civil defence said 11 people were wounded when a tower in the financial district was hit.",
+   "category": "geopolitics",
+   "importance": 2,
+   "source_event_ids": [
+    "690e1d9b092071dd"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n34vv7vxwe2v",
+     "url": "https://bsky.app/profile/reuters.com/post/3n34vv7vxwe2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c7b69cf20ead",
+   "created_at": "2026-11-25T10:05:46Z"
+  },
+  {
+   "id": "d03008ef5385",
+   "ts": "2026-11-25T07:50:16Z",
+   "headline": "Bank Indonesia's budget plan assumes its benchmark rate stays at 6% through 2027, governor says",
+   "detail": "Bank Indonesia's governor told parliament on Wednesday that the central bank's 2027 budget proposal assumes the benchmark rate will be 6% next year, which is where it is now, Reuters reports.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "005cd88f25088d5e"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n34odymjcd2x",
+     "url": "https://bsky.app/profile/reuters.com/post/3n34odymjcd2x"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1cf7ea3d0c4a",
+   "created_at": "2026-11-25T07:50:48Z"
+  },
+  {
+   "id": "d86bebaa2300",
+   "ts": "2026-11-25T07:33:50Z",
+   "headline": "Resolution Foundation says January's 26% price cap rise puts typical bills £50 above the peak of the last energy crisis",
+   "detail": "The Resolution Foundation said Ofgem's confirmed 26% rise in the energy price cap from January will leave typical family bills £50 higher than at the peak of the previous energy crisis. It added that the government's £100 support payment will miss one in eight of England's poorest families.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "b1b710c25d567620"
+   ],
+   "sources": [
+    {
+     "author": "resolutionfoundation.org",
+     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3n34ngme74v2f",
+     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3n34ngme74v2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "23c53d1cd908",
+   "created_at": "2026-11-25T07:35:46Z"
+  },
+  {
+   "id": "fee36e6a1888",
+   "ts": "2026-11-25T07:26:00Z",
+   "headline": "Ofgem sets a 26% rise in the UK household energy price cap from January, citing a jump in wholesale gas costs",
+   "detail": "Energy regulator Ofgem says the new three-month price cap, which takes effect in January, reflects a surge in wholesale gas prices, the FT reports.",
+   "category": "energy",
+   "importance": 3,
+   "source_event_ids": [
+    "8e530fa4f0ff8014"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n34mylr45k2t",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n34mylr45k2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5c4949f46f5b",
+   "created_at": "2026-11-25T07:31:03Z"
+  },
+  {
+   "id": "8b6463a5083a",
+   "ts": "2026-11-25T06:45:10Z",
+   "headline": "NAO says MoD's £298bn Defence Investment Plan underpins the Strategic Defence Review but cost pressures persist",
+   "detail": "The National Audit Office said the Ministry of Defence's £298bn Defence Investment Plan lays the groundwork for delivering the Strategic Defence Review, though cost pressures remain. It called for close monitoring and transparency as the plan is carried out.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "63bdcbfcc9bec605"
+   ],
+   "sources": [
+    {
+     "author": "nao.org.uk",
+     "uri": "at://did:plc:zl6coddye75giblpxli7r7zr/app.bsky.feed.post/3n34kpo5yck2v",
+     "url": "https://bsky.app/profile/nao.org.uk/post/3n34kpo5yck2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0039f1da593f",
+   "created_at": "2026-11-25T06:45:51Z"
+  },
+  {
+   "id": "d4e462da87c3",
+   "ts": "2026-11-25T06:10:11Z",
+   "headline": "Houthis threaten to target Jeddah and all Saudi Red Sea ports if Saudi Arabia attacks Yemen's Hodeidah port",
+   "detail": "Reuters reports that Yemen's Houthis said on Wednesday they would target Jeddah and every other Saudi port on the Red Sea coast if Saudi Arabia acts on its threats to attack Hodeidah. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "3542f590ed7f71bd"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n34ir277sl2m",
+     "url": "https://bsky.app/profile/reuters.com/post/3n34ir277sl2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d463711df680",
+   "created_at": "2026-11-25T06:10:49Z"
+  },
+  {
+   "id": "96d97d012481",
+   "ts": "2026-11-25T05:20:13Z",
+   "headline": "Trump shelves plans for business deals with Russia, FT reports",
+   "detail": "The FT reports that Washington no longer sees economic co-operation as a way to get Russia to end its full-scale invasion of Ukraine.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "12bc86b36cce4795"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n34fxod5d32t",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n34fxod5d32t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "08aafda9637e",
+   "created_at": "2026-11-25T06:05:40Z"
+  },
+  {
+   "id": "ac63bed19eb7",
+   "ts": "2026-11-25T04:50:15Z",
+   "headline": "RBA's Jacobs says Australian financial conditions are clearly restrictive after five rate rises this year",
+   "detail": "Reuters reports that the senior Reserve Bank of Australia official said on Wednesday that conditions are restrictive. He added that low credit spreads and strong business lending make it harder to judge how tight they are.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "06b05590dd2bf3f2"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n34ec4pxh72h",
+     "url": "https://bsky.app/profile/reuters.com/post/3n34ec4pxh72h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "08aafda9637e",
+   "created_at": "2026-11-25T06:05:40Z"
+  },
+  {
+   "id": "9b50d7896285",
+   "ts": "2026-11-25T04:20:14Z",
+   "headline": "Japan's services inflation gauge rises 4.2% in October, the fastest annual pace since 1990",
+   "detail": "Data released on Wednesday show a key gauge of Japanese service-sector inflation rose 4.2% year on year in October. Reuters reports the reading adds to the case for a near-term BOJ rate hike.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "c710b4cdd981b1d3"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n34cmgdklf2h",
+     "url": "https://bsky.app/profile/reuters.com/post/3n34cmgdklf2h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "645256944735",
+   "created_at": "2026-11-25T06:01:15Z"
+  },
+  {
+   "id": "0787ee37b601",
+   "ts": "2026-11-25T00:00:24Z",
+   "headline": "Canadian dollar reaches an 11-day high as investors add to bets on a Bank of Canada rate hike after Macklem's speech",
+   "detail": "Investors raised bets on a Bank of Canada rate hike next month after a speech by Governor Tiff Macklem, and the Canadian dollar hit an 11-day high against the US dollar. Reuters separately reports the Bank of Canada says end-year inflation could come in below forecast.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "5b46a0893b4d15ab",
+    "9dfd26523dde6c38"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n33u3sog6m2b",
+     "url": "https://bsky.app/profile/reuters.com/post/3n33u3sog6m2b"
+    },
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n33s4snkys2v",
+     "url": "https://bsky.app/profile/reuters.com/post/3n33s4snkys2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "645256944735",
+   "created_at": "2026-11-25T06:01:15Z"
+  },
+  {
+   "id": "65d16f7afdb9",
+   "ts": "2026-11-24T23:15:15Z",
+   "headline": "Iraq presses OPEC+ to raise its crude capacity estimate ahead of the 2027 quota review, sources say",
+   "detail": "Reuters cites four sources as saying Iraq wants OPEC+ to lift its estimate of the country's crude production capacity. The review will help set how much each member may pump next year, and the push is raising tensions within the group.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "a16e5ccf7bad97df"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n33rl3m3q22v",
+     "url": "https://bsky.app/profile/reuters.com/post/3n33rl3m3q22v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "645256944735",
+   "created_at": "2026-11-25T06:01:15Z"
+  },
+  {
+   "id": "92b9dae2961f",
+   "ts": "2026-11-24T21:05:09Z",
+   "headline": "FDIC reports US bank profits dipped slightly in the third quarter but stayed above a year earlier",
+   "detail": "The Federal Deposit Insurance Corporation reported on Tuesday that US banking sector profits fell slightly in the third quarter of 2026. Profits remained above their level in the same quarter last year.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "5c65994da5c47039"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n33kchg3mm2h",
+     "url": "https://bsky.app/profile/reuters.com/post/3n33kchg3mm2h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "de854388f6de",
+   "created_at": "2026-11-24T21:05:44Z"
+  },
+  {
+   "id": "14c4c048172b",
+   "ts": "2026-11-24T19:25:12Z",
+   "headline": "US consumer confidence rises more than forecast in November to its highest in nearly two years",
+   "detail": "Reuters reports that US consumer confidence beat expectations in November and reached its highest level in nearly two years. The report links the rise to optimism about the labour market and the wider economy after this month's midterm elections.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "b33c69df9bdf62eb"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n33eppds4i2s",
+     "url": "https://bsky.app/profile/reuters.com/post/3n33eppds4i2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "742f7d4ef100",
+   "created_at": "2026-11-24T19:25:42Z"
+  },
+  {
+   "id": "e6e7200c9316",
+   "ts": "2026-11-24T19:10:15Z",
+   "headline": "Trump administration is about to publish its excess-capacity probe covering 16 trading partners, with new tariffs expected, Reuters reports",
+   "detail": "Reuters cites three people familiar with the matter as saying the findings of the probe into alleged excess industrial capacity at 16 major US trading partners will be released soon. Import duties on a wide range of goods are expected to follow.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "8169aff2f4948e17"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n33duyaids2h",
+     "url": "https://bsky.app/profile/reuters.com/post/3n33duyaids2h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "26dc2ecf4c0c",
+   "created_at": "2026-11-24T19:10:50Z"
+  },
+  {
+   "id": "322d86703744",
+   "ts": "2026-11-24T18:25:35Z",
+   "headline": "UK government is warned the Timms disability benefits review risks pushing up a £40bn bill, FT reports",
+   "detail": "According to the FT, the government will try to reconcile the recommendations of Stephen Timms' review with a separate report that Alan Milburn published last week.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "c08352ce2db31672"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n33bf4qqpg2r",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n33bf4qqpg2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6e999b87c618",
+   "created_at": "2026-11-24T18:25:47Z"
+  },
+  {
+   "id": "7d7a3f6e3eef",
+   "ts": "2026-11-24T18:23:23Z",
+   "headline": "European Commission tells France and Belgium to put public finances on a sustainable path and warns Germany of possible extra monitoring",
+   "detail": "The FT reports that the European Commission warned France and Belgium over their public finances. It also told Berlin it could face additional monitoring next year because of excessive public spending.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "704d7663f761e61f"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n33bb6ksg42a",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n33bb6ksg42a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6e999b87c618",
+   "created_at": "2026-11-24T18:25:47Z"
+  },
+  {
+   "id": "b6fc662ef78d",
+   "ts": "2026-11-24T18:07:39Z",
+   "headline": "Saudi Arabia seeks help from allies in the US and Asia to restock its missile defences, Semafor reports",
+   "detail": "Semafor reports that Saudi Arabia has asked allies from the US to Asia for help replenishing its missile defence stocks. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "21ed8c5f49ea207a"
+   ],
+   "sources": [
+    {
+     "author": "semafor.com",
+     "uri": "at://did:plc:2jwxoziacifmtqa5felhqms6/app.bsky.feed.post/3n33af2kl642n",
+     "url": "https://bsky.app/profile/semafor.com/post/3n33af2kl642n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e0d059b1b5d5",
+   "created_at": "2026-11-24T18:10:58Z"
+  },
+  {
+   "id": "38a5b4b3f1d8",
+   "ts": "2026-11-24T17:54:51Z",
+   "headline": "Timms Review of PIP sets out no plan to curb welfare spending and leaves cost questions to the government",
+   "detail": "Reuters reports that the UK government's review of the main disability benefit recommended easier claims for people with the most severe conditions but offered no measures to reduce spending. Decisions on eligibility and cost are left to the government early next year.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "f723736176f7fae3"
+   ],
+   "sources": [
+    {
+     "author": "davidmilliken.bsky.social",
+     "uri": "at://did:plc:cnkav2txgxnskbjf2f564bjl/app.bsky.feed.post/3n337o57rl22c",
+     "url": "https://bsky.app/profile/davidmilliken.bsky.social/post/3n337o57rl22c"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9080c5300a02",
+   "created_at": "2026-11-24T17:55:44Z"
+  },
+  {
+   "id": "68261af47194",
+   "ts": "2026-11-24T16:42:11Z",
+   "headline": "Trump prepares a new round of tariffs on China, the EU, Japan and South Korea, FT reports",
+   "detail": "The Financial Times reports that the US president is preparing new tariffs that are expected to hit China, the EU, Japan and South Korea. The report presents this as Trump doubling down on his trade strategy.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "615b875e0baafb74"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n333m7vg2q2b",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n333m7vg2q2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7adadb369e44",
+   "created_at": "2026-11-24T16:46:01Z"
+  },
+  {
+   "id": "a9c85e862808",
+   "ts": "2026-11-24T16:09:24Z",
+   "headline": "CBI survey shows UK retailers had their best month for sales since late 2022",
+   "detail": "A CBI business survey published on Tuesday showed British retailers reporting their strongest sales month in almost four years. Retailers also said they were optimistic about sales in the coming month, Reuters reports.",
+   "category": "data",
+   "importance": 2,
+   "source_event_ids": [
+    "9be2051ffc23f02f"
+   ],
+   "sources": [
+    {
+     "author": "bruceandy.bsky.social",
+     "uri": "at://did:plc:zpgmsa7eo63jbc57nd5gbr2c/app.bsky.feed.post/3n32zrm7uj22v",
+     "url": "https://bsky.app/profile/bruceandy.bsky.social/post/3n32zrm7uj22v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7edef1b66ba0",
+   "created_at": "2026-11-24T16:10:53Z"
+  },
+  {
+   "id": "9b2afa5b736f",
+   "ts": "2026-11-24T15:05:44Z",
+   "headline": "Lambeth Council declares a financial emergency and seeks central government support over a write-off of up to £68m",
+   "detail": "Inside Housing reports that Lambeth Council expects to write off up to £68m linked to its housing development company, which it says was mismanaged. The council has asked central government for emergency funding.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "1610e4df3153e349"
+   ],
+   "sources": [
+    {
+     "author": "insidehousing.bsky.social",
+     "uri": "at://did:plc:4crnjat2gafdo4ezfzxgd3gg/app.bsky.feed.post/3n32w7r5uaf2v",
+     "url": "https://bsky.app/profile/insidehousing.bsky.social/post/3n32w7r5uaf2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3c04ced91ee7",
+   "created_at": "2026-11-24T15:10:55Z"
+  },
+  {
+   "id": "ce3761b52df7",
+   "ts": "2026-11-24T14:25:10Z",
+   "headline": "Brazil's lower house passes a government-backed fiscal package aimed at shoring up public finances",
+   "detail": "Reuters reports that Brazil's lower house of Congress approved the package late on Monday. Investors regard the measures as falling short of what is needed to deal with the country's worsening debt outlook.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "eef02265ac194a99"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n32tx7gsss22",
+     "url": "https://bsky.app/profile/reuters.com/post/3n32tx7gsss22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "bbbcebe93a1e",
+   "created_at": "2026-11-24T14:25:54Z"
+  },
+  {
+   "id": "acfc3deb0b5d",
+   "ts": "2026-11-24T14:13:29Z",
+   "headline": "Timms Review proposes simpler PIP applications now and a longer-term overhaul of the disability benefit",
+   "detail": "The Institute for Fiscal Studies reports that the Timms Review recommends making it easier to apply for Personal Independence Payment in the short term and reforming the benefit in the long term. The IFS says setting the entitlement criteria remains the main challenge.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "62860a9395216f29"
+   ],
+   "sources": [
+    {
+     "author": "theifs.bsky.social",
+     "uri": "at://did:plc:migxim34fyw7yvdbzw5maym5/app.bsky.feed.post/3n32tcdghz72i",
+     "url": "https://bsky.app/profile/theifs.bsky.social/post/3n32tcdghz72i"
+    }
+   ],
+   "model": "opus",
+   "run_id": "bc0c75def844",
+   "created_at": "2026-11-24T14:15:50Z"
+  },
+  {
+   "id": "ba35daf60012",
+   "ts": "2026-11-24T12:50:16Z",
+   "headline": "German Ifo business sentiment rises in November for a seventh month in a row",
+   "detail": "The Ifo survey published on Tuesday showed German business morale up again in November, following a strong PMI reading, Reuters reports. No index level was given in the report.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "8af0d0abc58cbe6f"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n32onjhou52b",
+     "url": "https://bsky.app/profile/reuters.com/post/3n32onjhou52b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "374d2c9efa9c",
+   "created_at": "2026-11-24T12:50:49Z"
+  },
+  {
+   "id": "6840574cc8c0",
+   "ts": "2026-11-24T12:39:41Z",
+   "headline": "UK sells £3.75bn of index-linked gilts by syndication at a 2.52% real yield, a record for a syndicated linker",
+   "detail": "The UK government sold £3.75 billion of inflation-linked gilts via syndication on 24 November at a real yield of 2.52%. It is the highest real yield on record for a syndicated linker sale and the highest for any linker sale since a 2001 auction.",
+   "category": "supply",
+   "importance": 2,
+   "source_event_ids": [
+    "35221c6d34fa44d4"
+   ],
+   "sources": [
+    {
+     "author": "bruceandy.bsky.social",
+     "uri": "at://did:plc:zpgmsa7eo63jbc57nd5gbr2c/app.bsky.feed.post/3n32o2m3cys2e",
+     "url": "https://bsky.app/profile/bruceandy.bsky.social/post/3n32o2m3cys2e"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7835bd905b96",
+   "created_at": "2026-11-24T12:40:50Z"
+  },
+  {
+   "id": "0dd5f8104349",
+   "ts": "2026-11-24T12:35:09Z",
+   "headline": "Japan's draft budget guideline promises sustainable public finances and respect for BOJ independence",
+   "detail": "Japan's government set out the commitments on Tuesday in a draft guideline for next year's budget, Reuters reports. Reuters says the draft shows the government is sensitive to market nervousness about its large spending plans.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "b1b465742a2bcc58"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n32nsir5tq26",
+     "url": "https://bsky.app/profile/reuters.com/post/3n32nsir5tq26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "204fb8c3b598",
+   "created_at": "2026-11-24T12:35:41Z"
+  },
+  {
+   "id": "b7aa5e5e9779",
+   "ts": "2026-11-24T12:21:09Z",
+   "headline": "EU moves closer to letting UK cars into its Made in Europe subsidy scheme, FT reports",
+   "detail": "The Financial Times reports that the EU is nearing a deal to include UK-made cars in the bloc's Made in Europe subsidy scheme. The FT describes this as a significant diplomatic win for PM Andy Burnham.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "ced8377d48505652"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n32mzhig472z",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n32mzhig472z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "66af603b0f31",
+   "created_at": "2026-11-24T12:25:44Z"
+  },
+  {
+   "id": "3d5c5bce8c47",
+   "ts": "2026-11-24T12:00:20Z",
+   "headline": "EU imposes temporary limits on hybrid vehicle imports from China, Japan, Turkey, Britain and other countries",
+   "detail": "Reuters reports that the European Union has set temporary caps on hybrid vehicle imports to protect EU carmakers. For most countries the limits are high enough to cover existing shipments.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "f6b49d180570a660"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n32luafh772b",
+     "url": "https://bsky.app/profile/reuters.com/post/3n32luafh772b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b868f996d5b5",
+   "created_at": "2026-11-24T12:01:19Z"
+  },
+  {
+   "id": "f6c8539009dd",
+   "ts": "2026-11-24T11:25:10Z",
+   "headline": "Japan downgrades its assessment of consumer spending for the first time since 2024",
+   "detail": "Japan's government cut its view on consumer spending in its November assessment, the first downgrade in more than two and a half years, Reuters reports. It said rising prices were weighing on consumer sentiment.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "4a786d910f1396c9"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n32jvdrfjs26",
+     "url": "https://bsky.app/profile/reuters.com/post/3n32jvdrfjs26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8823e9044ed0",
+   "created_at": "2026-11-24T11:25:45Z"
+  },
+  {
+   "id": "c0ddb9a12280",
+   "ts": "2026-11-24T10:40:13Z",
+   "headline": "Iraq's PM orders the oil ministry to take over management of oilfields in Kurdish-controlled areas",
+   "detail": "Reuters reports that Prime Minister Ali al-Zaidi issued the order during a crackdown on Iran's most powerful militia ally in Iraq and on senior officials accused of running an oil-smuggling ring worth hundreds of millions of dollars. No market reaction was reported.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "90d9a5894c35cf39"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n32hexykgy22",
+     "url": "https://bsky.app/profile/reuters.com/post/3n32hexykgy22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "26d7f415f8dd",
+   "created_at": "2026-11-24T10:40:56Z"
+  },
+  {
+   "id": "9c6499eea7dd",
+   "ts": "2026-11-24T06:25:12Z",
+   "headline": "Oil falls for a second day to trade near three-month lows on rising supply despite Hormuz shipping risks",
+   "detail": "Reuters reports that oil prices fell further on Tuesday to trade near three-month lows, citing signs of rising crude supply and a possible market surplus. Risks to shipping through the Strait of Hormuz remain, the report says.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "2904f897bb67f1bf"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2zz4xs7mo2u",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2zz4xs7mo2u"
+    }
+   ],
+   "model": "opus",
+   "run_id": "bf0a9e29b716",
+   "created_at": "2026-11-24T06:25:42Z"
+  },
+  {
+   "id": "0e07f9249307",
+   "ts": "2026-11-24T05:22:38Z",
+   "headline": "US Defence Secretary Hegseth holds up delivery of anti-ballistic interceptors to Ukraine, FT reports",
+   "detail": "The FT, citing people familiar with the matter, reports that the US had agreed to supply the interceptors and that Kyiv's western allies are paying for them.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "17011095d4f8ff9d"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n2zvn3uqkz2m",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n2zvn3uqkz2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "98475716bbee",
+   "created_at": "2026-11-24T06:01:12Z"
+  },
+  {
+   "id": "c5005289d594",
+   "ts": "2026-11-24T04:20:11Z",
+   "headline": "Japan's flash manufacturing PMI shows factory activity growing slightly faster in November",
+   "detail": "A preliminary survey released on Tuesday showed output and export orders picking up on demand for semiconductors and electronics, Reuters reported.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "64f94b4e0636ee7f"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2zs5gilsh22",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2zs5gilsh22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "98475716bbee",
+   "created_at": "2026-11-24T06:01:12Z"
+  },
+  {
+   "id": "784d8070af7c",
+   "ts": "2026-11-24T00:45:19Z",
+   "headline": "Fed's Williams says US inflation is still too high and signals further rate hikes are possible",
+   "detail": "New York Fed President John Williams said on Monday that persistently high inflation keeps pointing the Fed towards tighter policy. He added that the pace of future increases will depend on incoming data, Reuters reported.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "3aca38cae2ffe38a",
+    "453fdb5b2fc2e51f"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2zg57a67m26",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2zg57a67m26"
+    },
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2ztt4w4y72q",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2ztt4w4y72q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "98475716bbee",
+   "created_at": "2026-11-24T06:01:12Z"
+  },
+  {
+   "id": "ee2969af723a",
+   "ts": "2026-11-23T23:34:13Z",
+   "headline": "Fed Governor Bowman faces a probe over whether she broke blackout rules after a Fed meeting",
+   "detail": "The FT reports that Michelle Bowman spoke at an invitation-only Bank of America dinner hours after a Federal Reserve meeting. She is being investigated over whether this breached the blackout period.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "4d4a1e5639ecc2d5"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n2zc63e5pq2a",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n2zc63e5pq2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "98475716bbee",
+   "created_at": "2026-11-24T06:01:12Z"
+  },
+  {
+   "id": "c79792b22632",
+   "ts": "2026-11-23T23:10:15Z",
+   "headline": "Brazil cuts its 2027 growth forecast to 1.8% and raises its inflation estimate to 4.5%",
+   "detail": "Brazil's Finance Ministry lowered its 2027 GDP forecast from 2.3% in September and raised its inflation estimate from 3.8%, further above the 3.0% target. Finance Minister Durigan said the government will aim for a primary surplus of 1.5% to 2% of GDP by the end of Lula's next term.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "974ec133ed635318",
+    "81a1c14f5956d75d"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2zat7tj4k25",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2zat7tj4k25"
+    },
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2zbnus3pk2l",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2zbnus3pk2l"
+    }
+   ],
+   "model": "opus",
+   "run_id": "98475716bbee",
+   "created_at": "2026-11-24T06:01:12Z"
+  },
+  {
+   "id": "70c7f36f6833",
+   "ts": "2026-11-23T18:45:15Z",
+   "headline": "Estonia closes its land border with Russia as Moscow says Tallinn's hostile actions are close to triggering open war",
+   "detail": "Russia's Foreign Ministry on Monday said Estonia's actions were nearing the point of open war, according to Reuters. It made the accusation after Estonia announced it was closing their land border. Estonia is a member of both NATO and the EU.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "399de88461b7c3a6"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2yrzduv4e22",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2yrzduv4e22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7f9b126540fe",
+   "created_at": "2026-11-23T18:45:51Z"
+  },
+  {
+   "id": "22771d1f6f45",
+   "ts": "2026-11-23T18:10:14Z",
+   "headline": "Brazil central bank chief Galipolo says government spending growth in a fully employed economy can add to inflation",
+   "detail": "In unusual remarks on fiscal policy on Monday, Brazil's central bank governor Gabriel Galipolo said changes to the country's fiscal rules are possible and necessary, Reuters reports.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "6d8c46bc9b855310"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2yq2qfc5w2u",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2yq2qfc5w2u"
+    }
+   ],
+   "model": "opus",
+   "run_id": "781226829598",
+   "created_at": "2026-11-23T18:10:50Z"
+  },
+  {
+   "id": "d5be8d4949aa",
+   "ts": "2026-11-23T17:36:14Z",
+   "headline": "US Treasury announces new sanctions linked to Iran",
+   "detail": "The US Treasury has posted a new set of Iran-related sanctions on its website. No further details or market reaction were reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "75d82c4f54c573e4"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yo5ww6wr2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yo5ww6wr2j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8e61b33b9bea",
+   "created_at": "2026-11-23T17:40:52Z"
+  },
+  {
+   "id": "6a84316d2024",
+   "ts": "2026-11-23T17:35:10Z",
+   "headline": "China's central bank governor Pan calls for cooperation with the EU as officials discuss exchange rates",
+   "detail": "Chinese and EU officials discussed exchange rates on Monday, and PBOC Governor Pan called for dialogue and cooperation with the bloc, Reuters reports. European officials had raised their concerns about the yuan's value and China's trade surplus with the EU.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "5bef9f04ec69f8b4"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2yo3zwigc2a",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2yo3zwigc2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e0ee05db4d62",
+   "created_at": "2026-11-23T17:35:41Z"
+  },
+  {
+   "id": "23af8f8707d6",
+   "ts": "2026-11-23T16:43:05Z",
+   "headline": "US 3-month and 6-month bill auctions clear at higher yields of 4.18% and 4.34%, with weaker cover",
+   "detail": "The US Treasury's 3-month bill sold at a high yield of 4.18%, up from 4.155%, with bid-to-cover of 2.74 against 2.76 previously. The 6-month bill sold at 4.34%, up from 4.31%, with bid-to-cover of 2.6 against 2.83 previously.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "066e6a0c790298f7",
+    "3225100a400b4911",
+    "6eb053a95d8b486c",
+    "c2c0ed86d64d7d39",
+    "c471026f2f553cde"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yl6unyvs2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yl6unyvs2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yl6vjxhz2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yl6vjxhz2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yl7madka24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yl7madka24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ylaczcoy24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ylaczcoy24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yladgmpt2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yladgmpt2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "cc8ab67cd219",
+   "created_at": "2026-11-23T16:45:49Z"
+  },
+  {
+   "id": "f8cfb03bbbb3",
+   "ts": "2026-11-23T16:40:42Z",
+   "headline": "Russia says it will not agree to a new grain deal",
+   "detail": "Russia's permanent mission to the UN said Moscow will not sign up to a new grain deal, according to the TASS news agency.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "073d5b2163fb7f27"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yl2n6tym2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yl2n6tym2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d2b01493ba9f",
+   "created_at": "2026-11-23T16:40:52Z"
+  },
+  {
+   "id": "1b7de6971dd3",
+   "ts": "2026-11-23T16:36:48Z",
+   "headline": "UK PM Burnham says he is not currently proposing a rerun of the EU referendum",
+   "detail": "The Prime Minister made the remark on Monday as he set out the UK-EU summit deal to parliament.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "88c1b0e2b3a9083e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yktoy5yu2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yktoy5yu2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d2b01493ba9f",
+   "created_at": "2026-11-23T16:40:52Z"
+  },
+  {
+   "id": "1d196a10d0e0",
+   "ts": "2026-11-23T16:35:09Z",
+   "headline": "Sterling edges up against the dollar but gives back some earlier gains as the dollar steadies",
+   "detail": "Reuters reports the pound edged higher against the dollar on Monday, paring some earlier gains as the dollar steadied and investors assessed new signals on the economic outlook. No levels were given.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "7ba1abe22583fefa"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2ykqqcn6r26",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2ykqqcn6r26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "61483f73ed81",
+   "created_at": "2026-11-23T16:35:43Z"
+  },
+  {
+   "id": "2c2cdd4ff108",
+   "ts": "2026-11-23T16:25:30Z",
+   "headline": "UK PM Burnham says the UK could not rejoin the EU without a referendum",
+   "detail": "Prime Minister Burnham said on Monday that taking the UK back into the EU without a referendum would be unthinkable. He spoke as the government presses ahead with its EU summit deal.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "71a1e29356d628b3"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yk7hpgpg2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yk7hpgpg2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "be6b6418276a",
+   "created_at": "2026-11-23T16:25:42Z"
+  },
+  {
+   "id": "203351603137",
+   "ts": "2026-11-23T15:54:23Z",
+   "headline": "US crude oil drops below $80 a barrel for the first time since August",
+   "detail": "US crude futures fell under $80 per barrel on Monday afternoon, their lowest level since August, according to a market newswire report.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "72f67636934931c9"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yihtlpw22t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yihtlpw22t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0ae90dd8998b",
+   "created_at": "2026-11-23T15:55:43Z"
+  },
+  {
+   "id": "a50cd7276307",
+   "ts": "2026-11-23T15:47:16Z",
+   "headline": "UK PM Burnham says the EU deal is worth up to 0.5% of the UK economy and both sides will avoid policies that hurt each other's industries",
+   "detail": "UK Prime Minister Burnham put the value of the EU deal at up to 0.5% of the British economy. He also said the UK and the EU will avoid policies that harm each other's industries.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "c5bef8f7cc9d7e84",
+    "f0968fdd206b7352"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yi345ir52b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yi345ir52b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yi5apbhb2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yi5apbhb2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "215e440c7fc0",
+   "created_at": "2026-11-23T15:50:52Z"
+  },
+  {
+   "id": "5145ca5453e4",
+   "ts": "2026-11-23T15:43:18Z",
+   "headline": "UK PM Burnham says the bill implementing the EU deal will be introduced on Thursday",
+   "detail": "In remarks on the EU deal, PM Burnham said legislation to implement it will be brought forward on Thursday. He also said the UK and EU will avoid policies that harm each other's industries.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "465044f61cc95f45",
+    "3b5d45164b0d46fe"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yhtz6mva2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yhtz6mva2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yhwwbgdd2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yhwwbgdd2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d0d102f87585",
+   "created_at": "2026-11-23T15:45:58Z"
+  },
+  {
+   "id": "a742c05410d3",
+   "ts": "2026-11-23T15:36:08Z",
+   "headline": "UK PM Burnham tells parliament the EU summit deal will bring real benefits and calls for a more constructive EU relationship",
+   "detail": "Prime Minister Andy Burnham made a statement to parliament following the EU-UK summit agreements. He described Friday as a landmark moment and said there is a clear consensus among Britons for closer ties with the EU.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "81b1c15ddd6a56d7",
+    "5ec475068a625a03",
+    "f92dfacb74701502",
+    "e07421b2da8628e8",
+    "83cf65c8a2d2557e",
+    "969975b09ac94065",
+    "f877296e77ae17c5"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yhh74khm2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yhh74khm2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yhlg2fsb2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yhlg2fsb2t"
+    },
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2yhmpcdmc2b",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2yhmpcdmc2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yhnjt5qe2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yhnjt5qe2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yhobicgb2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yhobicgb2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yhpp3mim2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yhpp3mim2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yhppic5d2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yhppic5d2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b0d2c3b0c8bf",
+   "created_at": "2026-11-23T15:40:59Z"
+  },
+  {
+   "id": "b6b7e3081fad",
+   "ts": "2026-11-23T15:14:59Z",
+   "headline": "Fitch says the outlook for US banks in 2027 is deteriorating as risks rise",
+   "detail": "Fitch Ratings published a weaker 2027 outlook for the US banking sector, pointing to rising risks.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "8258302c1fdcb4e8"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ygbfdfm72t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ygbfdfm72t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a4c521a4e531",
+   "created_at": "2026-11-23T15:15:51Z"
+  },
+  {
+   "id": "089807e6b35f",
+   "ts": "2026-11-23T15:06:26Z",
+   "headline": "Libya's Tripoli government condemns Ukraine's announced operations against Russian naval vessels off Benghazi",
+   "detail": "Libya's Tripoli-based Government of National Unity says it rejects any foreign military operations on its territory or in its waters, and says it has authorised none. It also warns against any use of Libyan ports and facilities for military purposes.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "59bd06e7c6b24007",
+    "2d935d259de0c42d",
+    "98de8236125e0f66"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yfs3rzzm2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yfs3rzzm2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yfssqysg2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yfssqysg2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yfylvre42t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yfylvre42t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ba179d0671ad",
+   "created_at": "2026-11-23T15:10:54Z"
+  },
+  {
+   "id": "be4cf3b3f7d3",
+   "ts": "2026-11-23T15:04:25Z",
+   "headline": "EU's 22nd Russia sanctions package cuts 60 banks off SWIFT, adds 70 shadow fleet ships and covers electricity services",
+   "detail": "European Commission President von der Leyen said the package targets financial services and crypto, removing 60 Russian banks from SWIFT and setting up a crypto sanctions task force. It also lists 70 more shadow fleet vessels, covers electricity services for the first time, bars European countries from helping Russia rebuild energy facilities and stops Europeans from holding posts in Russian companies.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "88922b112adf5cfb",
+    "27bc3ac84f45298b",
+    "b5a9cd7ce071ed30",
+    "81718e6964310ced",
+    "c84bca678266c3d3",
+    "35110f58b5c86027",
+    "2742bf4d7453735b",
+    "e65fd81cf5a1d03c",
+    "83336e7f915f8416",
+    "8c41776e12681d80",
+    "b18707359d77d60f",
+    "4f5f6a8ea83de8ff"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yfjdhrm324",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yfjdhrm324"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yfjd3dd32t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yfjd3dd32t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yfkrvjke24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yfkrvjke24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yfm7n5tu2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yfm7n5tu2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yfmahrfu2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yfmahrfu2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yfmbaorl2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yfmbaorl2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yfnprpea2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yfnprpea2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yfoifpz22a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yfoifpz22a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yfohwrdn2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yfohwrdn2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yfoiqkot2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yfoiqkot2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yfpa4zsg2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yfpa4zsg2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yfqnld3y24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yfqnld3y24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3ef717db66eb",
+   "created_at": "2026-11-23T15:05:50Z"
+  },
+  {
+   "id": "1762c5b6164c",
+   "ts": "2026-11-23T15:01:08Z",
+   "headline": "EU presents its 22nd package of sanctions on Russia",
+   "detail": "A market news feed reports that the EU has presented its 22nd sanctions package against Russia. No details of the measures were given.",
+   "category": "geopolitics",
+   "importance": 2,
+   "source_event_ids": [
+    "c81cb182688ea31c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yfimbw762a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yfimbw762a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a8a34ba6cd6f",
+   "created_at": "2026-11-23T15:01:15Z"
+  },
+  {
+   "id": "f6821e55565c",
+   "ts": "2026-11-23T15:00:54Z",
+   "headline": "ECB's Panetta warns that fragmenting payment systems risk raising costs and weakening economic ties",
+   "detail": "ECB policymaker Fabio Panetta said on Monday that payment systems are becoming tools of geopolitical power, and that a push for national autonomy could fragment networks, Reuters reports.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "864dada2d8662706"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2yfi75wjp25",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2yfi75wjp25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a8a34ba6cd6f",
+   "created_at": "2026-11-23T15:01:15Z"
+  },
+  {
+   "id": "fdc7a928fe5b",
+   "ts": "2026-11-23T14:58:37Z",
+   "headline": "UK PM Burnham to use Henry VIII powers to fast-track adoption of EU rules, Telegraph reports",
+   "detail": "The Telegraph reports that the government plans to use Henry VIII clauses so the Prime Minister can amend legislation to bring in EU rules with minimal Commons scrutiny.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "6a39753306472d40"
+   ],
+   "sources": [
+    {
+     "author": "matthewholehouse.bsky.social",
+     "uri": "at://did:plc:phrwhxykvoi3zwiasdcaijyi/app.bsky.feed.post/3n2yfe45oak2u",
+     "url": "https://bsky.app/profile/matthewholehouse.bsky.social/post/3n2yfe45oak2u"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a8a34ba6cd6f",
+   "created_at": "2026-11-23T15:01:15Z"
+  },
+  {
+   "id": "c3896dd50672",
+   "ts": "2026-11-23T14:51:39Z",
+   "headline": "Czech PM Babis rejects the next EU budget proposal and says positions are too far apart to see a deal",
+   "detail": "Czech Prime Minister Babis called the current proposal for the next EU budget unacceptable and said he disagrees with the proposed split of funding between national and centrally run programmes. He also said financing for Ukraine should sit outside the EU budget.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "6683d7bf95e04495",
+    "d750444a022afb81",
+    "d9eec3e57f6d0121",
+    "2b3f90bede4cf148"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yexnsmcv2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yexnsmcv2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yeyfeata26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yeyfeata26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yezsy7ta2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yezsy7ta2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yf4mduus2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yf4mduus2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "57b591ad454e",
+   "created_at": "2026-11-23T14:55:40Z"
+  },
+  {
+   "id": "ab2de588f405",
+   "ts": "2026-11-23T14:50:29Z",
+   "headline": "Germany's Merz says security guarantees for Ukraine should come close to NATO membership",
+   "detail": "German Chancellor Merz said the planned security guarantees for Ukraine would come close to NATO accession. He also said it was a mistake not to admit Ukraine to NATO in 2008.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "a3408b123acfe356",
+    "1dafd59c737c66ea",
+    "c222c5300ac63d78"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yevkcuyf2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yevkcuyf2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yevkrd6c2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yevkrd6c2j"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yeutkoug2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yeutkoug2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f2a43b4eaad9",
+   "created_at": "2026-11-23T14:50:51Z"
+  },
+  {
+   "id": "ddaf5c478b90",
+   "ts": "2026-11-23T14:48:28Z",
+   "headline": "NATO's Rutte says every incident in Europe will bring more support for Ukraine and NATO must not be pushed back to its 1997 borders",
+   "detail": "NATO Secretary General Rutte said the alliance has response options to Russia's hybrid war that the public may not always see, and that only allies decide on NATO membership. He also said the US and Europe are aligned.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "f6cc937451a5cffa",
+    "818496f09c22bfdb",
+    "253d5d34c3622298",
+    "4e9e3ad2eb369f18",
+    "06b12f346aec68e1"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yerava7p2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yerava7p2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yerxs4uj2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yerxs4uj2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yesozrx32b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yesozrx32b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yetfufbt2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yetfufbt2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yeu4omcp2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yeu4omcp2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f2a43b4eaad9",
+   "created_at": "2026-11-23T14:50:51Z"
+  },
+  {
+   "id": "359dc2c05a9c",
+   "ts": "2026-11-23T14:45:41Z",
+   "headline": "US flash composite PMI falls to 54.6 from 55.9, below the 55.6 forecast, as manufacturing eases to 54.5",
+   "detail": "The S&P Global flash composite PMI for the US came in at 54.6 against a forecast of 55.6 and a previous reading of 55.9. The flash manufacturing PMI was 54.5, matching the forecast and down from 54.9.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "f6d8d25d813ee961",
+    "9b3bb5fb6272c29b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yemxovck2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yemxovck2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yemy2png2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yemy2png2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c5ad5949fc0f",
+   "created_at": "2026-11-23T14:45:57Z"
+  },
+  {
+   "id": "080264a395dd",
+   "ts": "2026-11-23T14:44:04Z",
+   "headline": "Merz calls reports of a Russian nuclear-armed satellite shocking and says NATO's eastern flank needs stronger defence",
+   "detail": "Germany's chancellor said the reports that Russia is ready to launch a nuclear-armed satellite were not new but still shocking. He said defence of NATO's eastern flank will be discussed this week and must be stronger than before.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "028ab71b634bdff2",
+    "8f48d22381c6971f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yek3qjhi2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yek3qjhi2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yemaj4sw24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yemaj4sw24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c5ad5949fc0f",
+   "created_at": "2026-11-23T14:45:57Z"
+  },
+  {
+   "id": "4423fd45d098",
+   "ts": "2026-11-23T14:41:34Z",
+   "headline": "Macron proposes a constitutional 'golden rule' to cap French government spending and contain deficits",
+   "detail": "The FT reports that the French president has suggested a constitutional reform to limit government spending and keep future deficits in check. The proposal is similar to ones put forward by his opponents.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "dec720f19a08fda5"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n2yefmlfkp2b",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n2yefmlfkp2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c5ad5949fc0f",
+   "created_at": "2026-11-23T14:45:57Z"
+  },
+  {
+   "id": "79226ce4081c",
+   "ts": "2026-11-23T14:36:05Z",
+   "headline": "German Chancellor Merz says Europe is ready to negotiate with Russia and urges Moscow to halt provocations over Poland",
+   "detail": "Merz also said NATO threatens no one, freedom of navigation must be upheld, and there is intense communication over the Baltic Sea to avoid escalation. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "2fa0179417a2378c",
+    "be6f70c0841c3263",
+    "711ea1bce13b3d21",
+    "b18e7effdc9a7e5d",
+    "be20ab087b5770f6"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ye3shqit2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ye3shqit2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ye5vzcmv2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ye5vzcmv2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ye6mmu3m24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ye6mmu3m24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ye7dq2232d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ye7dq2232d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ye7dfayy26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ye7dfayy26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e5f43cd97032",
+   "created_at": "2026-11-23T14:40:51Z"
+  },
+  {
+   "id": "beaa03bc3891",
+   "ts": "2026-11-23T14:23:01Z",
+   "headline": "BoE chief economist Pill says action is needed now to keep prices stable",
+   "detail": "Bank of England chief economist and MPC member Huw Pill said policy action should be taken now to preserve price stability, according to a market news feed. No further detail on the occasion or any market reaction was given.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "a9bc3c703a7e8e8c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ydegwife2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ydegwife2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ab933222f4c2",
+   "created_at": "2026-11-23T14:25:42Z"
+  },
+  {
+   "id": "14519dea7d6e",
+   "ts": "2026-11-23T14:07:08Z",
+   "headline": "Traders increase bets on BoE and ECB rate hikes after Nvidia reinstates Jensen Huang as chief executive",
+   "detail": "Market reports say traders added to BoE and ECB rate-hike bets after the Nvidia news. Nvidia's board voted unanimously to reinstate Huang with immediate effect, and its shares rose more than 30% in pre-market trading, according to the FT.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "48d9e25fdd46244f",
+    "d9e9297c9c6463c4",
+    "79c345732fd280bc"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yci2wsb72w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yci2wsb72w"
+    },
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n2ycmr3dcx2b",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n2ycmr3dcx2b"
+    },
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2ycoczeo22b",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2ycoczeo22b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "32c0286767d5",
+   "created_at": "2026-11-23T14:10:48Z"
+  },
+  {
+   "id": "17b61908a1e7",
+   "ts": "2026-11-23T14:01:33Z",
+   "headline": "Bank of Israel leaves its interest rate unchanged, Israeli reports say",
+   "detail": "Reports in Israel say the Bank of Israel has kept its policy rate unchanged. The reports did not give the rate level.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "88c0a3f950a5c276"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yc63dapi2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yc63dapi2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "55ba51dc2ba1",
+   "created_at": "2026-11-23T14:05:42Z"
+  },
+  {
+   "id": "4ceac02ae771",
+   "ts": "2026-11-23T13:58:17Z",
+   "headline": "Russia accuses Estonia of letting Ukraine use its airspace for attacks and warns this risks open war with Russia",
+   "detail": "Russia's foreign ministry says Estonia lets Ukraine use its airspace to attack Russia and is trying to obstruct Russian cargo ships in the Baltic Sea. The ministry says such actions are close to triggering an open war with Russia.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "54b28660502e3c42",
+    "ee397eb16cbbf13c",
+    "543f18412bf1839e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ybxik73p2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ybxik73p2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yby7pefi2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yby7pefi2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yc3t5o6b2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yc3t5o6b2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "063f69ac5911",
+   "created_at": "2026-11-23T14:01:19Z"
+  },
+  {
+   "id": "554741de5c69",
+   "ts": "2026-11-23T13:45:37Z",
+   "headline": "India's trade secretary says a fix on bulk Scotch tariffs is being sought quickly, as negotiators were unaware of Indian court cases",
+   "detail": "India's trade secretary said negotiators on both sides of the India-UK trade agreement did not know about court cases in India on the tariff issues. He said India is working to resolve the bulk Scotch tariff dispute as quickly as it can.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "ce86c3e53eaead8b",
+    "3f29881b0fc0c9eb"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yb6qn6gx2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yb6qn6gx2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ybbl3jwl2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ybbl3jwl2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "804fdc628ac2",
+   "created_at": "2026-11-23T13:45:52Z"
+  },
+  {
+   "id": "cf97afcf0662",
+   "ts": "2026-11-23T13:42:27Z",
+   "headline": "US Chicago Fed National Activity Index falls to -0.06 in October, missing the 0.2 forecast",
+   "detail": "The Chicago Fed National Activity Index came in at -0.06 for October, below the 0.2 forecast. September's reading was revised to 0.05 from 0.07.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "9f61bba463b64836"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yb3vighf2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yb3vighf2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "804fdc628ac2",
+   "created_at": "2026-11-23T13:45:52Z"
+  },
+  {
+   "id": "1503712ad3b8",
+   "ts": "2026-11-23T13:35:47Z",
+   "headline": "India's trade secretary says blocked containers of bulk Scotch have been released from Indian ports",
+   "detail": "India's trade secretary said shipping containers of bulk Scotch held at Indian ports have been released, and that the UK government has raised the Scotch whisky tariff issue with India. He added that he sees no problem with other countries under the trade pact after the dispute.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "cddc2c1f9627bc36",
+    "31bbbf593f76193c",
+    "24c5b4025e5da6c2"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yapyrayb2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yapyrayb2j"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yassjmmp2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yassjmmp2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yavmwxjx2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yavmwxjx2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "42bad5769008",
+   "created_at": "2026-11-23T13:40:50Z"
+  },
+  {
+   "id": "7c72e2639d38",
+   "ts": "2026-11-23T13:34:12Z",
+   "headline": "US Treasury counsellor Zervos says financial conditions tightened last week",
+   "detail": "Zervos, a counsellor at the US Treasury, said financial conditions tightened over the past week. The remarks come as a global market selloff continues.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "b3cdd5a374d2b9d3"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yan67ecl2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yan67ecl2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0e07e65b3b0f",
+   "created_at": "2026-11-23T13:35:46Z"
+  },
+  {
+   "id": "0b1b05ef7d19",
+   "ts": "2026-11-23T13:29:51Z",
+   "headline": "India seeks legal opinion to resolve a dispute over tariffs on bulk Scotch under the UK trade pact",
+   "detail": "India's trade secretary says the trade ministry is working with the finance ministry on technical solutions to the tariff issue on bulk Scotch. He says differing court orders and legal interpretations have complicated the issue.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "6e96fbd3a7ce4904",
+    "d98bab5d57d204d4"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ya7rqk7b2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ya7rqk7b2w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yaffieri2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yaffieri2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c6b942c82ffe",
+   "created_at": "2026-11-23T13:31:04Z"
+  },
+  {
+   "id": "30b384913da6",
+   "ts": "2026-11-23T13:22:26Z",
+   "headline": "India's trade secretary says India is sticking to its commitments under the India-UK trade agreement",
+   "detail": "India's trade secretary said India continues to honour its commitments under the India-UK trade agreement. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "4dc7813d08a6c106"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2y7y4uik32m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2y7y4uik32m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "05098cc27a9c",
+   "created_at": "2026-11-23T13:25:47Z"
+  },
+  {
+   "id": "d8529238ab63",
+   "ts": "2026-11-23T12:55:42Z",
+   "headline": "Iran's Araghchi says the foreign ministry must pursue talks and seek to have sanctions lifted through dialogue",
+   "detail": "Iran's foreign minister Abbas Araghchi said his ministry is responsible for pursuing negotiations and trying to get sanctions lifted through dialogue, according to reports. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "37d9623b65777b51"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2y6idhjhi2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2y6idhjhi2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d19a954d2892",
+   "created_at": "2026-11-23T13:01:13Z"
+  },
+  {
+   "id": "549b020f00b2",
+   "ts": "2026-11-23T12:53:45Z",
+   "headline": "Dollar index climbs to a fresh 19-month high",
+   "detail": "A market newswire reports the US dollar index has reached its highest level in 19 months. No figure for the index level was given.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "d3d081d4c395ad91"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2y6etgsaz2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2y6etgsaz2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "734edeb01989",
+   "created_at": "2026-11-23T12:55:41Z"
+  },
+  {
+   "id": "79c3233a9200",
+   "ts": "2026-11-23T12:26:19Z",
+   "headline": "UK PM's spokesman says talks with the EU on options for ties are starting, with no commitment to tariffs on Chinese EVs",
+   "detail": "The Prime Minister's spokesman said the UK is opening talks with the EU on realistic options for the relationship. He added that the UK has made no commitment to the EU to impose tariffs on electric vehicles from China.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "7bfa687882254a35",
+    "fe1a795beddbc911"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2y4trygnr2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2y4trygnr2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2y522zg4m24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2y522zg4m24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d453a8542a82",
+   "created_at": "2026-11-23T12:31:02Z"
+  },
+  {
+   "id": "cc82f4b0f0d6",
+   "ts": "2026-11-23T12:15:26Z",
+   "headline": "Allies warn Russia may launch a nuclear space weapon as soon as next month",
+   "detail": "Western allies have warned that Russia may launch a nuclear-armed space weapon next month, according to a market news feed. This follows the German government saying it takes reports of such a satellite very seriously.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "0e1424015bc9a090"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2y4ackyi32d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2y4ackyi32d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "18462fef4cab",
+   "created_at": "2026-11-23T12:16:02Z"
+  },
+  {
+   "id": "f1fba289da7b",
+   "ts": "2026-11-23T11:49:57Z",
+   "headline": "NATO's Rutte says the US is fully aligned with Ukraine and the EU and the alliance will never start an attack",
+   "detail": "NATO Secretary General Rutte said the alliance is defensive and that none of its members would start an attack on another nation. He added that the US is completely aligned with Ukraine and the EU.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "66ccd73b8be4ca7f",
+    "45434f80164b1c1d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2y2sqiyy62v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2y2sqiyy62v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2y2mfhrkh2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2y2mfhrkh2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "267b78d4e639",
+   "created_at": "2026-11-23T11:50:59Z"
+  },
+  {
+   "id": "eb65824559c4",
+   "ts": "2026-11-23T11:49:24Z",
+   "headline": "ONS linked employer-employee data shows about 60,000 fewer UK workers a month moving to better-paying firms than before the pandemic",
+   "detail": "New ONS linked employee-employer data show 56% of job-to-job moves are to a firm that pays more on average. Around 60,000 fewer employees a month make such a switch than before the pandemic, according to an economist's reading of the release.",
+   "category": "data",
+   "importance": 1,
+   "source_event_ids": [
+    "65a830d069feda63"
+   ],
+   "sources": [
+    {
+     "author": "benzaranko.bsky.social",
+     "uri": "at://did:plc:kehpugaokgf2xoovbavfsnad/app.bsky.feed.post/3n2y2rrewz226",
+     "url": "https://bsky.app/profile/benzaranko.bsky.social/post/3n2y2rrewz226"
+    }
+   ],
+   "model": "opus",
+   "run_id": "267b78d4e639",
+   "created_at": "2026-11-23T11:50:59Z"
+  },
+  {
+   "id": "1b18c4986284",
+   "ts": "2026-11-23T11:45:11Z",
+   "headline": "NATO's Rutte says the alliance would defend itself if attacked, after Russian missiles entered Polish airspace",
+   "detail": "NATO Secretary General Mark Rutte said members would have to defend themselves in the event of an attack. He spoke after earlier calling the Russian missile incursion into Poland a dangerous incident. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "944e01ca0f52833a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2y2k7zpjg2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2y2k7zpjg2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9076c4e72a69",
+   "created_at": "2026-11-23T11:45:50Z"
+  },
+  {
+   "id": "8b970ddee999",
+   "ts": "2026-11-23T11:30:44Z",
+   "headline": "NATO's Rutte calls Russian missiles entering Poland a dangerous incident and says it must be established whether it was intentional",
+   "detail": "NATO Secretary General Mark Rutte said Russian missiles had entered Polish territory and called it a dangerous incident. He said the authorities need to establish whether it was intentional.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "c89134b5b8a88891",
+    "cc5b12aaf51bf48e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xzqf3rbc2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xzqf3rbc2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xzr3rnff2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xzr3rnff2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b6663ae39cd8",
+   "created_at": "2026-11-23T11:31:13Z"
+  },
+  {
+   "id": "ef9404a3efbd",
+   "ts": "2026-11-23T11:14:18Z",
+   "headline": "German government condemns Russian airspace violations over Poland and calls Moscow's tougher stance on NATO unacceptable",
+   "detail": "A German government spokesperson strongly condemned Russian violations of Polish airspace. The spokesperson said Russia's more aggressive posture towards NATO was unacceptable.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "3ee4023ed680f565"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xysyt4o72j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xysyt4o72j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2b24d5620246",
+   "created_at": "2026-11-23T11:15:49Z"
+  },
+  {
+   "id": "0b4c9fc0ce40",
+   "ts": "2026-11-23T11:10:11Z",
+   "headline": "ECB's Simkus says a December hike may not fully contain inflation but sees no urgency for a follow-up move",
+   "detail": "Lithuanian ECB policymaker Gediminas Simkus said a rate rise next month may fall short of fully containing inflation, but a further move is not urgent as second-round effects are building only gradually, Reuters reports.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "c3daf1fa85ca63cf"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2xylmthau2s",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2xylmthau2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c20cf9044feb",
+   "created_at": "2026-11-23T11:10:50Z"
+  },
+  {
+   "id": "dfcaad7f827f",
+   "ts": "2026-11-23T10:55:39Z",
+   "headline": "EU Council approves the EU's 2027 budget",
+   "detail": "The EU Council announced it has given final approval to the bloc's budget for 2027.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "ebf2e1127cef8aa1"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xxrnyroy2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xxrnyroy2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9c178adba814",
+   "created_at": "2026-11-23T11:01:25Z"
+  },
+  {
+   "id": "1fa685c80dce",
+   "ts": "2026-11-23T10:54:29Z",
+   "headline": "German government says it takes very seriously reports that Russia is ready to launch a nuclear-armed satellite",
+   "detail": "A German government spokesperson responded on Monday to reports that Russia is ready to launch a nuclear-armed satellite, saying Berlin was treating them very seriously. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "53592f795d3e4f20"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xxpkynoa2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xxpkynoa2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ae9f09c01850",
+   "created_at": "2026-11-23T10:55:39Z"
+  },
+  {
+   "id": "5c780d1556e9",
+   "ts": "2026-11-23T10:31:49Z",
+   "headline": "Hungary's PM Magyar rejects EU budget draft and says Costa's latest proposal does not bring a deal closer",
+   "detail": "Hungarian Prime Minister Magyar said Hungary cannot accept the previously published EU budget version and that European Council President Costa's new proposal from Saturday does not move the sides closer to agreement. He also said the EU budget and financial support for Ukraine should be handled separately.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "23c52b0a9f3c303a",
+    "9adc926c97afdcf6",
+    "8c522e77c417ce9f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xwh26nkh24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xwh26nkh24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xwhqwkc62d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xwhqwkc62d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xwlekut72t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xwlekut72t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a5210c60d424",
+   "created_at": "2026-11-23T10:35:41Z"
+  },
+  {
+   "id": "e9a6485c6665",
+   "ts": "2026-11-23T10:25:56Z",
+   "headline": "Kremlin warns of rising terrorist activity in the Baltic Sea and says Russia will keep up daily strikes in response to Ukrainian attacks",
+   "detail": "Kremlin spokesman Peskov said an attack on a Russian ship has raised tensions in the Baltic and called on Baltic Sea states to use their influence on Kyiv. He also said Russia's response to recent Ukrainian attacks will be continued daily strikes on Ukrainian military infrastructure, and dismissed reports that Russia is preparing a nuclear-armed satellite.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "e12b26fde939ad96",
+    "dff490b8befc15cf",
+    "2addcc6d9e33c9a3",
+    "ee6677f3c11ee9f0",
+    "41c7bac4b98bf5aa",
+    "5f08dea05f578ab4"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xw4itadl24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xw4itadl24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xw4j7nvc2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xw4j7nvc2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xw4jocdq2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xw4jocdq2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xwaseigj2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xwaseigj2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xw4iekuq2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xw4iekuq2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xw5azylq2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xw5azylq2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "153f3138d1da",
+   "created_at": "2026-11-23T10:31:02Z"
+  },
+  {
+   "id": "980a9b4d5d71",
+   "ts": "2026-11-23T10:20:53Z",
+   "headline": "Libya's Sharara oil pipeline reopens and crude pumping resumes, NOC chairman says",
+   "detail": "The chairman of Libya's National Oil Corporation says the Sharara pipeline has reopened and crude is flowing again. The NOC had earlier said a pipeline valve closure would cut Sharara output by about 350,000 bpd.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "b1d89106a80aedd4"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xvti3cgt2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xvti3cgt2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2757fcc72e6e",
+   "created_at": "2026-11-23T10:25:41Z"
+  },
+  {
+   "id": "9a2e5aedf494",
+   "ts": "2026-11-23T09:55:58Z",
+   "headline": "Haigh says UK reindustrialisation depends on lowering energy costs and pledges to stop payments for unused power",
+   "detail": "First Secretary Haigh said bringing industry back to the UK requires action on energy costs. He also said consumers should no longer pay for electricity that cannot be used.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "46ec1f6be68cdcd7",
+    "d6176c12f11ddaac"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xugxcinx2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xugxcinx2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xukhth2w2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xukhth2w2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5998b660598e",
+   "created_at": "2026-11-23T10:01:18Z"
+  },
+  {
+   "id": "066ef4850e89",
+   "ts": "2026-11-23T09:52:52Z",
+   "headline": "Haigh calls the UK's current set-up for water and energy a global outlier and says public control need not cause alarm",
+   "detail": "First Secretary Haigh said the UK's existing arrangements for water and energy are unusual by international standards and that public control should not worry anyone. She added that competition should be left alone where it already works.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "0cbfa51492d0d125",
+    "a35da9aafa8c87a9",
+    "355ec40c3b0dd25c",
+    "0c3ed1adea588a83"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xubf4w6a2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xubf4w6a2j"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xuetwq3u2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xuetwq3u2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xubepvhe2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xubepvhe2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xu6lhwat2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xu6lhwat2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "69b4eda3122b",
+   "created_at": "2026-11-23T09:55:43Z"
+  },
+  {
+   "id": "4971c2f7b3f7",
+   "ts": "2026-11-23T09:50:11Z",
+   "headline": "Russian oil exports from Baltic and Black Sea terminals face growing delays from bad weather and Ukrainian drone attacks",
+   "detail": "Reuters reports that loadings at Russia's main western oil export terminals are being held up by bad weather and repeated Ukrainian drone strikes. Its sources are traders, people with direct knowledge of loading schedules, and shipping data.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "aa4e72a4098199fe"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2xu4lfgq72b",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2xu4lfgq72b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5005d5fbfec7",
+   "created_at": "2026-11-23T09:51:01Z"
+  },
+  {
+   "id": "45ee25a1e666",
+   "ts": "2026-11-23T09:30:41Z",
+   "headline": "UK flash composite PMI falls to 52.3 from 52.9 as services slip to 52 and manufacturing to 52.7, all below forecasts",
+   "detail": "The UK flash PMIs for November show the composite at 52.3 against a 52.8 forecast and 52.9 previously. Services came in at 52 (forecast 53, previous 52.8) and manufacturing at 52.7 (forecast 53, previous 52.8).",
+   "category": "data",
+   "importance": 3,
+   "source_event_ids": [
+    "172fabd8bd1f321a",
+    "b93b23906300fdd3",
+    "3cc0be04229c85f9"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xszqc2xw2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xszqc2xw2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xt2gyyow2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xt2gyyow2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xt2hewg32b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xt2hewg32b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "22303d096225",
+   "created_at": "2026-11-23T09:31:08Z"
+  },
+  {
+   "id": "cf0e58701bb7",
+   "ts": "2026-11-23T09:00:44Z",
+   "headline": "Eurozone flash composite PMI holds at 51.7, below the 52 forecast, as services slip to 51.2 and manufacturing rises to 52.9",
+   "detail": "The November flash composite PMI for the eurozone was unchanged at 51.7, missing the 52 forecast. Services fell to 51.2 from 51.4, below the 51.8 forecast, and manufacturing rose to 52.9 from 52.7, above the 52.7 forecast.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "3f78439c46eaa47c",
+    "76bd5031cfc7b5e7",
+    "109e7b17fec3ef25"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xre66ho62t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xre66ho62t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xre5rkej2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xre5rkej2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xre6laja2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xre6laja2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ef5565a0e812",
+   "created_at": "2026-11-23T09:01:22Z"
+  },
+  {
+   "id": "696a50e56e13",
+   "ts": "2026-11-23T08:58:24Z",
+   "headline": "Zelenskyy says Ukraine needs answers on Article 5-style security guarantees",
+   "detail": "Ukraine's President Zelenskyy said Kyiv requires clarity on Article 5 security guarantees, after Trump said it was too early to discuss guarantees before a Russia–Ukraine deal is reached.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "604010742c1cca4c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xr7yc2tr2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xr7yc2tr2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ef5565a0e812",
+   "created_at": "2026-11-23T09:01:22Z"
+  },
+  {
+   "id": "26bad777e9f1",
+   "ts": "2026-11-23T08:51:43Z",
+   "headline": "Iran dismisses reports that its oil tankers are being loaded as speculation",
+   "detail": "Iran called reports about the loading of its oil tankers speculation, according to a market news feed. The statement comes while the US naval blockade of Iran remains in place.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "428da9a6ab51fc82"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xqtztwgz2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xqtztwgz2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0d444d46d140",
+   "created_at": "2026-11-23T08:56:00Z"
+  },
+  {
+   "id": "16aac700ad01",
+   "ts": "2026-11-23T08:30:44Z",
+   "headline": "Germany's flash composite PMI rises to 55 from 53.4, with services at 54 and manufacturing at 55, all above forecasts",
+   "detail": "Germany's November flash services PMI came in at 54, against a 52.3 forecast and 52.5 previously. Manufacturing rose to 55 from 54.2, above a 54.2 forecast, and the composite reached 55, above a 53.2 forecast.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "b71b6df1d0e9fa75",
+    "6acccc323a13c43d",
+    "f9aa435a09320c9c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xpojo7kk2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xpojo7kk2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xpojci5k26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xpojci5k26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xpojyy5s2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xpojyy5s2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "87ee8cd44dee",
+   "created_at": "2026-11-23T08:31:09Z"
+  },
+  {
+   "id": "868f96e993f7",
+   "ts": "2026-11-23T08:15:59Z",
+   "headline": "France's flash manufacturing PMI drops to 47.9 from 49.5 and the composite slips to 46.2, both below forecasts",
+   "detail": "France's November flash manufacturing PMI came in at 47.9, against a 49.8 forecast and 49.5 previously. The flash composite PMI fell to 46.2 from 46.6, against a forecast of 47.9.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "564d16e019064212",
+    "dffe6414b34e5ff6",
+    "e31db19a493d47cc"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xou5wc5j2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xou5wc5j2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xou6bnpd2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xou6bnpd2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xoyz5fdr26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xoyz5fdr26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f6dc714dfbb0",
+   "created_at": "2026-11-23T08:20:57Z"
+  },
+  {
+   "id": "86d2b0829eb2",
+   "ts": "2026-11-23T08:15:36Z",
+   "headline": "France's flash services PMI rises to 46.6 from 46.2 but misses the 47.5 forecast",
+   "detail": "France's November flash services PMI came in at 46.6, against a forecast of 47.5 and up from 46.2 the previous month.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "623e4be4a3e7fb6b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xothaull2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xothaull2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fe628e0552dc",
+   "created_at": "2026-11-23T08:15:48Z"
+  },
+  {
+   "id": "41c1eb14c17d",
+   "ts": "2026-11-23T08:03:35Z",
+   "headline": "Ukraine sinks a Russian warship off Libya in a sea drone attack, FT reports",
+   "detail": "The Financial Times reports that Ukraine sank a Russian warship off the Libyan coast. President Zelenskyy called the sea drone operation exemplary.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "72be8d3507c92fb0"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n2xo5xci5h2z",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n2xo5xci5h2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "85994afc17f7",
+   "created_at": "2026-11-23T08:06:02Z"
+  },
+  {
+   "id": "771689722af5",
+   "ts": "2026-11-23T07:50:26Z",
+   "headline": "Iran's foreign ministry says Tehran will use every available means to counter the US naval blockade",
+   "detail": "A spokesperson for Iran's foreign ministry said on Monday that Iran would use all the tools it has against the US naval blockade. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "86e254098b127304"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xnghu5p72m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xnghu5p72m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "45310b38bc42",
+   "created_at": "2026-11-23T07:50:47Z"
+  },
+  {
+   "id": "0b88ce1afc6a",
+   "ts": "2026-11-23T07:26:29Z",
+   "headline": "First Secretary Haigh says the UK-EU deal will cut supermarket trading costs and backs state action where markets fail",
+   "detail": "UK First Secretary of State Haigh said the government wants to intervene where markets are failing. She also said the UK-EU deal will lower trading costs for supermarkets.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "302ab8a5bcd5414b",
+    "a39015112ca51014"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xm27virx2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xm27virx2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xm3msziw2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xm3msziw2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3e8a558e6e65",
+   "created_at": "2026-11-23T07:31:09Z"
+  },
+  {
+   "id": "bc7976431bd4",
+   "ts": "2026-11-23T07:16:17Z",
+   "headline": "CBI warns public control talk deters investors as First Secretary Haigh moves to scrap some quangos",
+   "detail": "The CBI business lobby group cautioned that government talk of public ownership puts investors off, the FT reports. Its warning comes as First Secretary Louise Haigh sets out plans to abolish some quangos.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "aad32fca5de5e214"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n2xljfa2yu2b",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n2xljfa2yu2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "77f8ea9b4f85",
+   "created_at": "2026-11-23T07:20:52Z"
+  },
+  {
+   "id": "70317d595916",
+   "ts": "2026-11-23T06:58:58Z",
+   "headline": "French finance minister Lescure warns the government's 1% GDP growth forecast for 2027 may be cut",
+   "detail": "French Finance Minister Lescure said the government's 2027 economic growth forecast of 1% is at risk of being lowered.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "1b93e440a344ca15",
+    "ede3b7419f6786c1"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xkkg7jtk2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xkkg7jtk2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xkl4u35s2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xkl4u35s2j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6a7e688d356b",
+   "created_at": "2026-11-23T07:01:15Z"
+  },
+  {
+   "id": "854acbbad62c",
+   "ts": "2026-11-23T06:51:36Z",
+   "headline": "UK government to argue for more public sector control over utilities",
+   "detail": "A market news account reports that the UK government will put forward the case for handing the public sector greater control of utilities. The report gave no further details.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "a4fb9ef752edc152"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xk5asmgc24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xk5asmgc24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f55cb8ee8b24",
+   "created_at": "2026-11-23T06:55:42Z"
+  },
+  {
+   "id": "feafca4fde7b",
+   "ts": "2026-11-23T05:01:42Z",
+   "headline": "India's November HSBC composite PMI edges up to 56.3 from 56.2 as manufacturing rises and services slow",
+   "detail": "The manufacturing PMI rose to 56 from 54.7, while the services PMI fell to 55.3 from 55.8.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "6960e2d5cf6d3eaa",
+    "7b41810f8ee28791",
+    "c44e8d6921d55bed",
+    "8bbd20b22285b02f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xdypu6nl24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xdypu6nl24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xdxyhary2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xdxyhary2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xdxxuznz2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xdxxuznz2m"
+    },
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2xezs6v3q2h",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2xezs6v3q2h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b095f6c6c50e",
+   "created_at": "2026-11-23T06:40:59Z"
+  },
+  {
+   "id": "b526c406a215",
+   "ts": "2026-11-23T05:01:34Z",
+   "headline": "Asian regulators step up action to steady markets as AI-led selloff hits regional stocks",
+   "detail": "The FT and WSJ report that regulators across Asia are increasing intervention to calm markets hit by the selloff in AI-related shares. Taiwan's stock exchange has asked listed companies to buy back shares and hold investor meetings.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "36d410ee0429d786",
+    "0462a80b6f2d4622",
+    "6ded8c1fb033358f",
+    "bfec6ac5c342ae1b",
+    "bcc5fa21a867a35a",
+    "af70aeb329c42b9e"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n2xdyiufyp22",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n2xdyiufyp22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xeimo63l24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xeimo63l24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xfov5h6g2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xfov5h6g2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xgtohodb26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xgtohodb26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xgv42jfq2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xgv42jfq2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xgwj67xe2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xgwj67xe2j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b095f6c6c50e",
+   "created_at": "2026-11-23T06:40:59Z"
+  },
+  {
+   "id": "fde9dbea86ca",
+   "ts": "2026-11-23T03:12:11Z",
+   "headline": "Sterling rises above $1.3100 after strong UK retail sales and as expectations of a hawkish Fed fade",
+   "detail": "A market commentary feed reported that sterling moved past 1.3100 against the dollar in Asian trading on Monday. It linked the rise to upbeat UK retail sales figures and to fading expectations of hawkish Federal Reserve policy.",
+   "category": "data",
+   "importance": 1,
+   "source_event_ids": [
+    "3420d1bda6502cfd"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2x5uvbtwi2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2x5uvbtwi2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9629f74ba7ee",
+   "created_at": "2026-11-23T06:35:40Z"
+  },
+  {
+   "id": "fa50a0150e5e",
+   "ts": "2026-11-22T23:58:48Z",
+   "headline": "Libya's NOC says pipeline valve closure will cut Sharara output by about 350,000 bpd",
+   "detail": "Libya's National Oil Corporation said an unlawful group had closed a valve on the Sharara oil pipeline, causing a loss of around 350,000 barrels per day of production. Separately, Brent crude futures were reported down $1 at $91.57 a barrel in early trading.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "13c894664b3ad062",
+    "f47a4877192d4b2c",
+    "44c02569a4597715"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2wt34q66624",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2wt34q66624"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2wt6lqfln2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2wt6lqfln2w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2wswxf5an24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2wswxf5an24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5d96acd4b430",
+   "created_at": "2026-11-23T06:31:03Z"
+  },
+  {
+   "id": "a039eb12ccb8",
+   "ts": "2026-11-22T23:55:40Z",
+   "headline": "Trump says Iran fired more drones and missiles last week than at any time in over a year, all intercepted",
+   "detail": "In a Truth Social post, the US president said Iran had launched more drones and missiles in the past week than at any point in more than a year, adding that all had been shot down without causing damage.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "31fa7d695768d991"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2wsvjbds42t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2wsvjbds42t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5d96acd4b430",
+   "created_at": "2026-11-23T06:31:03Z"
+  },
+  {
+   "id": "c00d7c21dacd",
+   "ts": "2026-11-22T23:19:46Z",
+   "headline": "European gas futures jump as much as 6.4% as trading opens for the week",
+   "detail": "European natural gas prices rose as much as 6.4% at the start of Monday trading.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "e7a27d32e89a6457"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2wqvcxddm2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2wqvcxddm2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5d96acd4b430",
+   "created_at": "2026-11-23T06:31:03Z"
+  },
+  {
+   "id": "9a86e46b432b",
+   "ts": "2026-11-22T22:00:40Z",
+   "headline": "Australia's flash composite PMI falls to 46.1 from 48.2",
+   "detail": "Australia's flash services PMI fell to 46.2 from 48.5 and the flash manufacturing PMI fell to 48.7 from 49.6.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "34a2d44b884a1393",
+    "5e92be33b232a773",
+    "fc5324cbf2abf707"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2wmhutq3n2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2wmhutq3n2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2wmiltywe2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2wmiltywe2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2wmilizmh2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2wmilizmh2j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5d96acd4b430",
+   "created_at": "2026-11-23T06:31:03Z"
+  },
+  {
+   "id": "26cbf3106fd0",
+   "ts": "2026-11-22T21:30:50Z",
+   "headline": "Trump says he is inclined to resume strikes on Iran after the New Year if no deal is reached",
+   "detail": "In an interview with Fox News, the US president dismissed Iran's talks and said he is leaning towards renewed strikes after the New Year if there is no deal. He also said any Iranian tankers that try to breach the US blockade would be sunk.",
+   "category": "geopolitics",
+   "importance": 2,
+   "source_event_ids": [
+    "123036d80e1af069",
+    "b727afce13bdb05c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2wksjcfsb2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2wksjcfsb2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2wksjpz3m26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2wksjpz3m26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e8c9a1f9379f",
+   "created_at": "2026-11-23T06:25:46Z"
+  },
+  {
+   "id": "c4e1da1902bd",
+   "ts": "2026-11-20T22:54:59Z",
+   "headline": "Saudi civil defence issues an early warning alert over a possible threat in Riyadh",
+   "detail": "Saudi Arabia's civil defence authority issued an early warning alert over a possible danger in the capital, Riyadh. It came after Houthi attacks on Saudi targets including Jazan and Al-Shuqaiq earlier in the day, and no further details were reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "6ce04c7817008159",
+    "05d46844170ae8c6",
+    "94a28471991127d8"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2rol5tass26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2rol5tass26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2rolv5wlw2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2rolv5wlw2w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2rolvjrbk26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2rolvjrbk26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ea5b31a2e452",
+   "created_at": "2026-11-20T22:55:43Z"
+  },
+  {
+   "id": "de26572ed102",
+   "ts": "2026-11-20T22:05:10Z",
+   "headline": "Trump says more work is needed before the US can reach a fair trade deal with Canada",
+   "detail": "US President Donald Trump said on Friday that he is working on a fair trade deal with Canada but that more work remains before it can be agreed, Reuters reports.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "27783836aa1d227a"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2rls2ur3g2a",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2rls2ur3g2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ef835bba4b6e",
+   "created_at": "2026-11-20T22:05:47Z"
+  },
+  {
+   "id": "b369b5eb280a",
+   "ts": "2026-11-20T21:46:57Z",
+   "headline": "Iran's Araghchi wants Trump to say explicitly he seeks a deal and says the two-day Hormuz plan remains on offer",
+   "detail": "Iran's foreign minister said Tehran needs confidence-building steps showing the US will not resume strikes. He said enriched uranium staying in Iran is a red line but he believes a fair solution is possible.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "02e63b4dd16be31f",
+    "9ceb58c260da22e8",
+    "bf5be89e3824ac50",
+    "af10f1ca2b607331"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2rkrit6cj2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2rkrit6cj2j"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2rktmfjnn2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2rktmfjnn2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2rkvpmuhg24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2rkvpmuhg24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2rkvpyuzd26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2rkvpyuzd26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7ace7657247a",
+   "created_at": "2026-11-20T21:50:48Z"
+  },
+  {
+   "id": "6cf9917c7099",
+   "ts": "2026-11-20T21:40:45Z",
+   "headline": "Iran's foreign minister Araghchi says Tehran sees no reason to replace the intermediaries in its peace talks with the US",
+   "detail": "Iran's foreign minister Araghchi said Iran does not need to change the mediators used in the peace talks. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "ebc0aa7e2c84227e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2rkgg3y5c2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2rkgg3y5c2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ee4e4ea194ba",
+   "created_at": "2026-11-20T21:45:48Z"
+  },
+  {
+   "id": "1b175f1f677b",
+   "ts": "2026-11-20T21:36:52Z",
+   "headline": "Iran's foreign minister Araghchi says Iran and the US are still exchanging messages through mediators",
+   "detail": "Iran's foreign minister Abbas Araghchi said messages between Tehran and Washington continue to pass through mediators. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "3fababcedf4108c2"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2rk7hyrdn2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2rk7hyrdn2j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3df902c381f8",
+   "created_at": "2026-11-20T21:40:47Z"
+  },
+  {
+   "id": "136c22608a52",
+   "ts": "2026-11-20T21:35:40Z",
+   "headline": "Iran's foreign minister Araqchi says Tehran still hopes diplomacy can end its war with the US",
+   "detail": "Iran's Foreign Minister Abbas Araqchi made the remarks in an interview with an Iranian newspaper. They come after he said earlier that the US blockade on Iran must be broken.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "9b8edf5b5bbe6f82"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2rk5do3s424",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2rk5do3s424"
+    }
+   ],
+   "model": "opus",
+   "run_id": "78691c4aa203",
+   "created_at": "2026-11-20T21:35:55Z"
+  },
+  {
+   "id": "d7c8d7128253",
+   "ts": "2026-11-20T21:27:08Z",
+   "headline": "EU is close to gaining a new trade power that would let it block access to its single market",
+   "detail": "A market commentary account reports that the EU is nearing a new trade instrument allowing it to block access to the single market. No further details were given.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "ae3c9af345569506"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2rjo2xm2v2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2rjo2xm2v2j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "572717610fee",
+   "created_at": "2026-11-20T21:30:59Z"
+  },
+  {
+   "id": "454e7a61729a",
+   "ts": "2026-11-20T20:47:46Z",
+   "headline": "Trump says the US is being patient on Iran",
+   "detail": "US President Trump commented on Iran on Friday, after reports that he is weighing fresh strikes. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "940f84a3adb64d92"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2rhhohjud2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2rhhohjud2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e63d2e3700d5",
+   "created_at": "2026-11-20T20:50:57Z"
+  },
+  {
+   "id": "87d1d1ab7f47",
+   "ts": "2026-11-20T20:45:48Z",
+   "headline": "US military flags strain on its operations as Trump considers fresh strikes on Iran, FT reports",
+   "detail": "The Financial Times reports that US military officials have warned of operational pressure while President Trump weighs renewed attacks on Iran. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "72a2ac71566e7854"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2rhe6fml72d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2rhe6fml72d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "87278ba927ea",
+   "created_at": "2026-11-20T20:45:51Z"
+  },
+  {
+   "id": "555617eecec0",
+   "ts": "2026-11-20T20:31:27Z",
+   "headline": "Trump threatens a heavy tax on data centres built outside the US, citing competition with China over AI",
+   "detail": "The Financial Times reports that the US president threatened a 'tremendous' tax on data centres built abroad, saying the aim is to stop Beijing taking the lead in AI development.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "0de64240fedd55a8"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n2rgkihl7f2u",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n2rgkihl7f2u"
+    }
+   ],
+   "model": "opus",
+   "run_id": "89549478dd31",
+   "created_at": "2026-11-20T20:35:44Z"
+  }
+ ]
+}
